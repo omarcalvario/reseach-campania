@@ -1,0 +1,331 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://uvp.example/schemas/campaign-content.schema.json",
+  "title": "UVP Campaign Research Content",
+  "description": "Contract for locally maintained editorial campaign research records.",
+  "type": "object",
+  "required": ["schemaVersion", "campaigns", "pieces", "sources", "trends", "learnings"],
+  "properties": {
+    "schemaVersion": { "type": "string", "const": "1.0" },
+    "campaigns": { "type": "array", "items": { "$ref": "#/$defs/campaign" } },
+    "pieces": { "type": "array", "items": { "$ref": "#/$defs/piece" } },
+    "sources": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+    "trends": { "type": "array", "items": { "$ref": "#/$defs/trend" } },
+    "learnings": { "type": "array", "items": { "$ref": "#/$defs/learning" } }
+  },
+  "$defs": {
+    "campaign": {
+      "type": "object",
+      "required": ["id", "institution", "campaignTitle", "region", "country", "dateLabel", "objetivo", "publico", "mensaje", "tono", "concepto", "llamada_a_la_accion", "evidencia_por_campo", "evidenceStatus", "resultSummary", "pieceIds", "sourceIds"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "institution": { "type": "string", "minLength": 1 },
+        "campaignTitle": { "type": "string", "minLength": 1 },
+        "region": { "enum": ["global", "mexico", "puebla-regional"] },
+        "country": { "type": "string", "minLength": 1 },
+        "city": { "type": ["string", "null"] },
+        "dateLabel": { "type": "string", "minLength": 1 },
+        "objetivo": { "$ref": "#/$defs/editorialField" },
+        "publico": { "$ref": "#/$defs/editorialField" },
+        "mensaje": { "$ref": "#/$defs/editorialField" },
+        "tono": { "$ref": "#/$defs/editorialField" },
+        "concepto": { "$ref": "#/$defs/editorialField" },
+        "llamada_a_la_accion": { "$ref": "#/$defs/editorialField" },
+        "evidencia_por_campo": {
+          "type": "object",
+          "required": ["objetivo", "publico", "mensaje", "tono", "concepto", "llamada_a_la_accion"],
+          "properties": {
+            "objetivo": { "$ref": "#/$defs/fieldEvidence" },
+            "publico": { "$ref": "#/$defs/fieldEvidence" },
+            "mensaje": { "$ref": "#/$defs/fieldEvidence" },
+            "tono": { "$ref": "#/$defs/fieldEvidence" },
+            "concepto": { "$ref": "#/$defs/fieldEvidence" },
+            "llamada_a_la_accion": { "$ref": "#/$defs/fieldEvidence" }
+          },
+          "additionalProperties": false
+        },
+        "campaignType": { "type": "array", "items": { "type": "string" } },
+        "evidenceStatus": { "enum": ["verified", "limited", "not-verifiable", "disputed"] },
+        "resultSummary": { "type": "string" },
+        "limitations": { "type": "array", "items": { "type": "string" } },
+        "pieceIds": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "sourceIds": { "type": "array", "items": { "type": "string" } }
+      },
+      "allOf": [
+        { "$ref": "#/$defs/campaignFieldEvidence/objetivo" },
+        { "$ref": "#/$defs/campaignFieldEvidence/publico" },
+        { "$ref": "#/$defs/campaignFieldEvidence/mensaje" },
+        { "$ref": "#/$defs/campaignFieldEvidence/tono" },
+        { "$ref": "#/$defs/campaignFieldEvidence/concepto" },
+        { "$ref": "#/$defs/campaignFieldEvidence/llamada_a_la_accion" }
+      ],
+      "additionalProperties": false
+    },
+    "editorialField": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Dato localizado o exactamente 'no localizado en fuente verificable'.",
+      "not": {
+        "enum": ["N/A", "NA", "no disponible", "sin dato", "no localizado", "desconocido", "pendiente", "null", "-"]
+      }
+    },
+    "fieldEvidence": {
+      "type": "object",
+      "properties": {
+        "sourceIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+        "supportingExcerpt": { "type": "string", "minLength": 1 },
+        "checkedSourceIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } }
+      },
+      "oneOf": [
+        {
+          "required": ["sourceIds", "supportingExcerpt"],
+          "properties": {
+          "sourceIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+            "supportingExcerpt": { "type": "string", "minLength": 1 }
+          },
+          "not": { "required": ["checkedSourceIds"] }
+        },
+        {
+          "required": ["checkedSourceIds"],
+          "properties": { "checkedSourceIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } } },
+          "not": { "required": ["sourceIds"] }
+        }
+      ],
+      "additionalProperties": false
+    },
+    "campaignFieldEvidence": {
+      "objetivo": {
+        "if": {
+          "properties": { "objetivo": { "const": "no localizado en fuente verificable" } },
+          "required": ["objetivo"]
+        },
+        "then": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "objetivo": { "required": ["checkedSourceIds"], "not": { "required": ["sourceIds"] } }
+              }
+            }
+          }
+        },
+        "else": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "objetivo": { "required": ["sourceIds"], "not": { "required": ["checkedSourceIds"] } }
+              }
+            }
+          }
+        }
+      },
+      "publico": {
+        "if": {
+          "properties": { "publico": { "const": "no localizado en fuente verificable" } },
+          "required": ["publico"]
+        },
+        "then": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "publico": { "required": ["checkedSourceIds"], "not": { "required": ["sourceIds"] } }
+              }
+            }
+          }
+        },
+        "else": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "publico": { "required": ["sourceIds"], "not": { "required": ["checkedSourceIds"] } }
+              }
+            }
+          }
+        }
+      },
+      "mensaje": {
+        "if": {
+          "properties": { "mensaje": { "const": "no localizado en fuente verificable" } },
+          "required": ["mensaje"]
+        },
+        "then": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "mensaje": { "required": ["checkedSourceIds"], "not": { "required": ["sourceIds"] } }
+              }
+            }
+          }
+        },
+        "else": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "mensaje": { "required": ["sourceIds"], "not": { "required": ["checkedSourceIds"] } }
+              }
+            }
+          }
+        }
+      },
+      "tono": {
+        "if": {
+          "properties": { "tono": { "const": "no localizado en fuente verificable" } },
+          "required": ["tono"]
+        },
+        "then": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "tono": { "required": ["checkedSourceIds"], "not": { "required": ["sourceIds"] } }
+              }
+            }
+          }
+        },
+        "else": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "tono": { "required": ["sourceIds"], "not": { "required": ["checkedSourceIds"] } }
+              }
+            }
+          }
+        }
+      },
+      "concepto": {
+        "if": {
+          "properties": { "concepto": { "const": "no localizado en fuente verificable" } },
+          "required": ["concepto"]
+        },
+        "then": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "concepto": { "required": ["checkedSourceIds"], "not": { "required": ["sourceIds"] } }
+              }
+            }
+          }
+        },
+        "else": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "concepto": { "required": ["sourceIds"], "not": { "required": ["checkedSourceIds"] } }
+              }
+            }
+          }
+        }
+      },
+      "llamada_a_la_accion": {
+        "if": {
+          "properties": { "llamada_a_la_accion": { "const": "no localizado en fuente verificable" } },
+          "required": ["llamada_a_la_accion"]
+        },
+        "then": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "llamada_a_la_accion": { "required": ["checkedSourceIds"], "not": { "required": ["sourceIds"] } }
+              }
+            }
+          }
+        },
+        "else": {
+          "properties": {
+            "evidencia_por_campo": {
+              "properties": {
+                "llamada_a_la_accion": { "required": ["sourceIds"], "not": { "required": ["checkedSourceIds"] } }
+              }
+            }
+          }
+        }
+      }
+    },
+    "piece": {
+      "type": "object",
+      "required": ["id", "campaignId", "title", "format", "discipline", "analysis", "sourceIds", "credit"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "campaignId": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "format": { "type": "string", "minLength": 1 },
+        "discipline": { "enum": ["graphic", "audiovisual", "web", "cross-disciplinary"] },
+        "channel": { "type": "string" },
+        "visualObservation": { "type": "string" },
+        "analysis": {
+          "type": "object",
+          "required": ["message", "audience", "style", "typography", "color", "photographyOrIllustration", "composition", "pieceSystem", "callToAction", "channelFit"],
+          "properties": {
+            "message": { "type": "string" }, "audience": { "type": "string" },
+            "style": { "type": "string" }, "typography": { "type": "string" },
+            "color": { "type": "string" }, "photographyOrIllustration": { "type": "string" },
+            "composition": { "type": "string" }, "pieceSystem": { "type": "string" },
+            "callToAction": { "type": "string" }, "channelFit": { "type": "string" },
+            "interaction": { "type": ["string", "null"] }, "motion": { "type": ["string", "null"] }
+          },
+          "additionalProperties": false
+        },
+        "sourceIds": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "credit": { "$ref": "#/$defs/credit" },
+        "media": { "type": ["object", "null"] },
+        "altText": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "credit": {
+      "type": "object",
+      "required": ["brand", "workTitle", "url", "useType", "rightsStatus", "useNote"],
+      "properties": {
+        "brand": { "type": "string" },
+        "creatorOrAgency": { "type": ["string", "null"] },
+        "workTitle": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "useType": { "type": "string" },
+        "rightsStatus": { "enum": ["reference-link", "internal-review-capture", "reusable-with-permission", "not-reusable"] },
+        "permissionEvidence": { "type": ["string", "null"] },
+        "useNote": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "required": ["id", "title", "sourceType", "url", "consultedAt", "accessStatus", "supports"],
+      "properties": {
+        "id": { "type": "string" }, "title": { "type": "string" },
+        "authorOrganization": { "type": ["string", "null"] },
+        "sourceType": { "type": "string" }, "url": { "type": "string", "format": "uri" },
+        "publishedAt": { "type": ["string", "null"] },
+        "consultedAt": { "type": "string", "format": "date" },
+        "accessStatus": { "enum": ["accessible", "inaccessible", "removed", "unknown"] },
+        "discrepancyNote": { "type": ["string", "null"] },
+        "supports": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+    "trend": {
+      "type": "object",
+      "required": ["id", "title", "period", "observation", "evidenceLabel", "sources", "uvpRelevance", "risk", "confidence"],
+      "properties": {
+        "id": { "type": "string" }, "title": { "type": "string" },
+        "discipline": { "type": "array", "items": { "type": "string" } },
+        "period": { "type": "string" }, "observation": { "type": "string" },
+        "evidenceLabel": { "enum": ["Dato verificado", "Interpretación", "Propuesta para UVP"] },
+        "sources": { "type": "array", "items": { "type": "string" } },
+        "uvpRelevance": { "type": "string" }, "risk": { "type": "string" },
+        "confidence": { "enum": ["documented", "hypothesis"] }
+      },
+      "additionalProperties": false
+    },
+    "learning": {
+      "type": "object",
+      "required": ["id", "principle", "takeaway", "avoidanceRisk", "application", "label", "sourceIds", "campaignIds"],
+      "properties": {
+        "id": { "type": "string" }, "principle": { "type": "string" },
+        "takeaway": { "type": "string" }, "avoidanceRisk": { "type": "string" },
+        "application": { "type": "array", "items": { "enum": ["graphic", "audiovisual", "web"] } },
+        "label": { "enum": ["Interpretación", "Propuesta para UVP"] },
+        "sourceIds": { "type": "array", "items": { "type": "string" } },
+        "campaignIds": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    }
+  }
+}

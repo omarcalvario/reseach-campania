@@ -1,0 +1,237 @@
+{
+  "title": "Análisis de ideas generadas con IA",
+  "note": "Bocetos internos para discusión creativa. Son hipótesis visuales; no son artes finales ni validan claims, identidad, fotografía o factibilidad de producción.",
+  "ideas": [
+    {
+      "id": "medicina-cinta-01",
+      "filename": "Deja Huella en Medicina UVP.png",
+      "title": "Medicina · Deja huella",
+      "family": "Cinta / salud",
+      "narrative": "Lo que empieza en ti",
+      "narrativeAngle": "La cinta debe mostrar el paso de una vocación personal a una acción de cuidado verificable.",
+      "correct": "Jerarquía clara: titular, persona y programa se reconocen en pocos segundos. El entorno clínico y la estudiante dan contexto a la promesa.",
+      "improve": "La cinta brillante rodea demasiadas zonas y compite con el titular y el rostro. Reducirla a un recorrido con dirección, no a un marco decorativo.",
+      "missing": "CTA de admisión, periodo y prueba concreta de experiencia UVP; verificar que espacio, uniforme y práctica correspondan a la realidad."
+    },
+    {
+      "id": "propuestas-tendencias",
+      "filename": "PROPUESTAS_TENDENCIAS .png",
+      "title": "Tablero de cinco estilos",
+      "family": "Sistema / exploración",
+      "narrative": "Sistema de narrativas UVP",
+      "narrativeAngle": "Puede ordenar las rutas de campaña, siempre que un solo lenguaje visual sea el sistema madre.",
+      "correct": "Muestra capacidad de variación: collage, textura, tipografía y códigos juveniles pueden activar audiencias distintas.",
+      "improve": "No deben convivir los cinco lenguajes como identidad principal. Elegir una gramática visual madre y limitar los demás a aplicaciones específicas.",
+      "missing": "Reglas de uso: retícula, tipografía, fotografía, color, cantidad de ornamentos y criterios para decidir qué formato usa cada estilo."
+    },
+    {
+      "id": "veterinaria-cinta-01",
+      "filename": "Veterinaria que deja huella.png",
+      "title": "Veterinaria · vínculo con animales",
+      "family": "Cinta / veterinaria",
+      "narrative": "Haz visible tu vocación",
+      "narrativeAngle": "El vínculo afectivo debe evolucionar hacia una escena de conocimiento, bienestar y cuidado responsable.",
+      "correct": "El vínculo estudiante–animales comunica el campo de estudio de inmediato y conserva la plataforma verbal reconocible.",
+      "improve": "La composición usa demasiada información encima de la fotografía. Dejar respirar al animal y usar menos texto de apoyo.",
+      "missing": "Una evidencia de práctica profesional: clínica, diagnóstico, bienestar o comunidad; no sólo una pose afectiva."
+    },
+    {
+      "id": "veterinaria-horizontal",
+      "filename": "Deja huella en veterinaria.png",
+      "title": "Veterinaria · formato horizontal",
+      "family": "OOH / cinta",
+      "narrative": "Lo que haces importa",
+      "narrativeAngle": "En exterior, el mensaje debe depender de una sola acción visible y no de múltiples frases.",
+      "correct": "La adaptación horizontal comprueba que el sistema puede funcionar en exterior: gran lectura, personaje y mensaje resuelven rápido.",
+      "improve": "Simplificar la cinta y reducir el bloque verbal para que el anuncio se lea a distancia y en movimiento.",
+      "missing": "Identificador del programa, llamada a la acción y prueba de legibilidad con distancia real de espectacular."
+    },
+    {
+      "id": "salud-cinta-02",
+      "filename": "Tu pasión deja huella en salud.png",
+      "title": "Ciencias de la Salud · mano extendida",
+      "family": "Cinta / salud",
+      "narrative": "De cerca",
+      "narrativeAngle": "La cercanía funciona cuando la relación humana se vuelve una escena real de acompañamiento y práctica.",
+      "correct": "La mano invita a participar y vuelve más cercana la promesa de cuidado; el área académica está claramente nombrada.",
+      "improve": "La pose frontal y la cinta pueden sentirse de banco de imágenes/IA. Cambiar por una acción clínica concreta y una cinta más funcional.",
+      "missing": "Un relato de lo que se aprende y se hace: simulación, práctica supervisada, comunidad o proyecto."
+    },
+    {
+      "id": "cartel-vocacion-billboard",
+      "filename": "Cartel UVP_ Vocación que deja huella.png",
+      "title": "Vocación que deja huella · espectacular",
+      "family": "OOH / cinta",
+      "narrative": "Haz visible tu vocación",
+      "narrativeAngle": "La vocación puede leerse a distancia si el titular queda solo y la imagen contiene la prueba de disciplina.",
+      "correct": "El mockup valida que la plataforma tiene presencia exterior y que el contraste oscuro, violeta y blanco es potente.",
+      "improve": "El encabezado y el gran titular compiten en una pieza que debe leerse en segundos; separar jerarquías y disminuir adornos.",
+      "missing": "Versión de producción con medidas, distancia de lectura, mensaje único y código de respuesta."
+    },
+    {
+      "id": "experiencias-campus",
+      "filename": "Experiencias que dejan huella.png",
+      "title": "Experiencias que dejan huella · campus",
+      "family": "Institucional / cinta",
+      "narrative": "Aquí pasa",
+      "narrativeAngle": "El campus se convierte en escenario de acciones y no sólo en fondo institucional.",
+      "correct": "Funciona como pieza institucional: campus, estudiante y promesa pueden extenderse a toda la oferta académica.",
+      "improve": "El mensaje “los mejores años” es amplio; hacerlo propio de UVP con una situación o evidencia concreta.",
+      "missing": "Una arquitectura para campañas generales versus campañas de programa, para que ambas no digan lo mismo."
+    },
+    {
+      "id": "veterinaria-pato",
+      "filename": "Deja Huella_ Cuidado Veterinario con Propósito.png",
+      "title": "Veterinaria · cuidado con propósito",
+      "family": "Cinta / veterinaria",
+      "narrative": "Lo que haces importa",
+      "narrativeAngle": "El gesto de cuidado tiene potencial porque cuenta una consecuencia, no sólo una identidad profesional.",
+      "correct": "Es la pieza más específica de cuidado: la interacción con el pato ofrece una situación menos obvia que perro y gato.",
+      "improve": "La escritura tipo brochazo, la pata de color y la cinta suman tres voces gráficas. Conservar sólo una voz expresiva adicional.",
+      "missing": "Un criterio de especies, bienestar y prácticas reales que guíe la dirección de arte de veterinaria."
+    },
+    {
+      "id": "salud-cinta-03",
+      "filename": "Tu pasión deja huella en salud 2.png",
+      "title": "Ciencias de la Salud · variante cercana",
+      "family": "Cinta / salud",
+      "narrative": "Un lugar para ponerlo en práctica",
+      "narrativeAngle": "La imagen debe explicar qué práctica ocurre, no repetir el mismo retrato con otro encuadre.",
+      "correct": "La composición conserva bien el eje persona–titular–área y muestra que el sistema es adaptable al formato vertical.",
+      "improve": "Es demasiado semejante a la otra variante de salud. Elegir una sola dirección de encuadre para evitar repetición.",
+      "missing": "Una escala de aplicaciones: post, story, cartel y landing con variaciones que aporten información, no sólo recortes."
+    },
+    {
+      "id": "culinaria-experiencias-01",
+      "filename": "Experiencias culinarias que dejan huella.jpg",
+      "title": "Gastronomía · experiencias que dejan huella",
+      "family": "Brochazo / gastronomía",
+      "narrative": "Aquí pasa",
+      "narrativeAngle": "La técnica en acción sostiene la promesa mejor que una lista de cualidades.",
+      "correct": "El fuego, el gesto culinario y el amarillo comunican oficio y energía. La tipografía expresiva pertenece al territorio gastronómico.",
+      "improve": "La lista de valores y los brochazos compiten con la acción central. Dejar un mensaje principal y una prueba corta.",
+      "missing": "Un enlace explícito entre la experiencia visual y la formación: técnicas, cocina profesional, servicio o proyectos."
+    },
+    {
+      "id": "gastronomia-cinta",
+      "filename": "Sabores que dejan huella en UVP.png",
+      "title": "Gastronomía · sabores que dejan huella",
+      "family": "Cinta / gastronomía",
+      "narrative": "Lo que haces importa",
+      "narrativeAngle": "El platillo y el proceso deben convertirse en evidencia visual del aprendizaje.",
+      "correct": "Une el lenguaje maestro de la cinta con una acción reconocible de la carrera y mantiene una lectura vertical clara.",
+      "improve": "La cinta cubre el plato y la mano; dejar que el resultado culinario sea el héroe visual en vez del efecto 3D.",
+      "missing": "Materialidad propia de Gastronomía: ingredientes, técnica, vapor, textura y trabajo de equipo real."
+    },
+    {
+      "id": "vocacion-billboard",
+      "filename": "Vocación que deja huella en UVP.png",
+      "title": "Vocación · espectacular veterinaria",
+      "family": "OOH / cinta",
+      "narrative": "Sigue la señal",
+      "narrativeAngle": "La cinta puede convertirse en una señal de dirección, no en el objeto más llamativo de la pieza.",
+      "correct": "Tiene un punto focal muy potente: animales, estudiante y titular se mantienen reconocibles incluso en formato panorámico.",
+      "improve": "La escala del titular deja poco aire y el montaje de animales puede sentirse demasiado perfecto. Priorizar naturalidad y espacio negativo.",
+      "missing": "Prueba de que el mensaje se reconoce sin leer el subtítulo y una versión localizada para Puebla."
+    },
+    {
+      "id": "anos-cinta",
+      "filename": "Años que dejan huella.png",
+      "title": "Experiencia UVP · años que dejan huella",
+      "family": "Institucional / cinta",
+      "narrative": "Tu historia está en construcción",
+      "narrativeAngle": "El campus debe llenarse de momentos reales de comunidad, no de una promesa genérica de etapa perfecta.",
+      "correct": "El contexto de campus y el mural añaden lugar y vida universitaria; sirve como pieza paraguas de marca.",
+      "improve": "La corona y los destellos añaden un código juvenil algo genérico. Usarlos sólo en activaciones puntuales, no como norma.",
+      "missing": "Historias reales de comunidad que sustenten la idea de “los mejores años”."
+    },
+    {
+      "id": "mirame-ahora",
+      "filename": "Imagen de ChatGPT 21 oct 2026, 12_45_52-2.png",
+      "title": "Medicina · Mírame ahora",
+      "family": "Tipografía / trayectoria",
+      "narrative": "Lo que empieza en ti",
+      "narrativeAngle": "La curva funciona como trayectoria si enlaza aprender hoy con una experiencia concreta de mañana.",
+      "correct": "Es una de las rutas más limpias: titular enorme, fondo blanco, fotografía útil y una curva violeta que puede representar progreso.",
+      "improve": "La selfie no aporta suficiente sentido a la carrera. Sustituirla por una interacción, práctica o resultado real.",
+      "missing": "Una versión de mensaje que conecte el presente de aprendizaje con impacto futuro sin prometer resultados no verificables."
+    },
+    {
+      "id": "medicina-selfie-cinta",
+      "filename": "Deja huella en medicina.png",
+      "title": "Medicina · selfie y titular",
+      "family": "Cinta / medicina",
+      "narrative": "Haz visible tu vocación",
+      "narrativeAngle": "La pieza será más sólida al sustituir la selfie por una decisión o intervención clínica visible.",
+      "correct": "La separación entre frase de apoyo y titular da buena jerarquía; el laboratorio aporta contexto de aprendizaje.",
+      "improve": "El gran bloque “Deja huella” cubre demasiada imagen y la cinta queda como recurso repetido. Reducir ambos para recuperar claridad.",
+      "missing": "Datos de decisión: programa, admisiones y un motivo tangible para elegir UVP."
+    },
+    {
+      "id": "veterinaria-vertical",
+      "filename": "Deja huella_ vocación veterinaria UVP.png",
+      "title": "Veterinaria · clínica y animales",
+      "family": "Cinta / veterinaria",
+      "narrative": "Un lugar para ponerlo en práctica",
+      "narrativeAngle": "El valor está en mostrar cómo el espacio y la práctica convierten interés en experiencia.",
+      "correct": "La información del programa aparece con mayor orden y los animales dan una lectura inmediata de disciplina.",
+      "improve": "El set sigue pareciendo publicitario y los animales están demasiado centrados. Buscar momentos observados de práctica real.",
+      "missing": "Una segunda pieza que muestre diagnóstico, trabajo de campo o bienestar animal para ampliar el relato."
+    },
+    {
+      "id": "culinaria-bw-01",
+      "filename": "Experiencias que dejan huella culinaria.jpg",
+      "title": "Gastronomía · contraste editorial",
+      "family": "Brochazo / gastronomía",
+      "narrative": "Lo que haces importa",
+      "narrativeAngle": "El contraste editorial puede enfatizar el gesto técnico y su resultado, sin sobrecargarlo de consignas.",
+      "correct": "El blanco y negro con acentos de color crea contraste y separa la carrera de las piezas clínicas; es apropiado para una disciplina de oficio.",
+      "improve": "La pieza mezcla tipografía, pictogramas, rayas y fuego. Reducir la cantidad de énfasis para que la acción conserve protagonismo.",
+      "missing": "Un sistema de versiones para menú editorial, video corto y post social que mantenga la misma energía."
+    },
+    {
+      "id": "culinaria-bw-02",
+      "filename": "Experiencias que dejan huella culinaria-2.jpg",
+      "title": "Gastronomía · textura y oficio",
+      "family": "Brochazo / gastronomía",
+      "narrative": "Aprender deja marcas",
+      "narrativeAngle": "La textura puede hablar de proceso, materia y ensayo si se mantiene subordinada a la información.",
+      "correct": "La textura granulada y el uso selectivo de color dan una cualidad táctil que conversa con la investigación de diseño humano/material.",
+      "improve": "El fondo tiene suficiente carácter; no necesita sumar tantos trazos secundarios. Aplicar una retícula más firme al bloque de valores.",
+      "missing": "Fotografía o video de procesos UVP reales que sostengan la sensación de oficio."
+    },
+    {
+      "id": "culinaria-bw-03",
+      "filename": "Experiencias que dejan huella culinaria-3.jpg",
+      "title": "Gastronomía · sistema monocromo",
+      "family": "Brochazo / gastronomía",
+      "narrative": "Sigue la señal",
+      "narrativeAngle": "El amarillo puede actuar como señal común que conecte la sublínea gastronómica con la identidad UVP.",
+      "correct": "La versión monocroma confirma que el concepto puede sobrevivir con una paleta más contenida y deja que el amarillo sea señal de energía.",
+      "improve": "El tratamiento parece una campaña distinta respecto a la cinta violeta. Declararlo como sublínea de Gastronomía, no como reemplazo del sistema UVP.",
+      "missing": "Un puente visual común —retícula, tipografía o gesto de trayectoria— que lo conecte con las otras carreras."
+    },
+    {
+      "id": "mi-historia",
+      "filename": "Imagen de ChatGPT 21 oct 2026, 12_45_50-1.png",
+      "title": "Medicina · Mi historia en construcción",
+      "family": "Collage / vida estudiantil",
+      "narrative": "Tu historia está en construcción",
+      "narrativeAngle": "Es la traducción más directa de la narrativa: proceso, colaboración, tropiezos y avance visible.",
+      "correct": "Es la ruta más alineada con collage, textura e imperfección humana. Cuenta proceso, equipo, ensayo y avance, no sólo un resultado perfecto.",
+      "improve": "Hay demasiadas notas, marcos y mensajes simultáneos. Diseñar una jerarquía de tres niveles y dejar más zonas limpias.",
+      "missing": "Un sistema de plantillas para que el collage sea escalable, accesible y reconocible sin depender de una composición única."
+    },
+    {
+      "id": "trae-lo-que-eres",
+      "filename": "Imagen de ChatGPT 21 oct 2026, 12_45_52-3.png",
+      "title": "Medicina · Trae lo que eres",
+      "family": "Expresivo / redes",
+      "narrative": "Trae lo que eres",
+      "narrativeAngle": "La personalidad puede entrar como energía gráfica, mientras las experiencias UVP sostienen el mensaje.",
+      "correct": "La energía, los colores UVP y los iconos convierten la pieza en una opción útil para redes y captación temprana.",
+      "improve": "El volumen de brochazos, iconos y frases vuelve la pieza ruidosa. Elegir una sola idea visual que acompañe el titular.",
+      "missing": "Una razón específica para que la persona aspirante relacione “lo que eres” con una experiencia UVP verificable."
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "schemaVersion": "1.0",
+  "scope": "Leads de búsqueda más referencias promovidas a aprobación en la ampliación de Fase A. Los leads no promovidos conservan limitación explícita; aprobar una ficha no equivale a ratificación institucional ni permiso de reutilización.",
+  "target": {
+    "global": 12,
+    "mexico": 12,
+    "puebla-regional": 12
+  },
+  "count": {
+    "global": 12,
+    "mexico": 12,
+    "puebla-regional": 12
+  },
+  "candidates": [
+    {
+      "id": "lead-global-01",
+      "region": "global",
+      "institution": "Durham University",
+      "campaignTitle": "Undergraduate Campaign 2024 — Be extraordinary. Be you.",
+      "leadUrl": "https://www.mortonward.co.uk/project/undergraduate-campaign-2024/",
+      "sourceStatus": "verificada en fuente accesible; análisis editorial y pieza enlazada documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "durham-undergraduate-2024-be-you"
+    },
+    {
+      "id": "lead-global-02",
+      "region": "global",
+      "institution": "University of Portsmouth",
+      "campaignTitle": "Your Time, Your Place",
+      "leadUrl": "https://weareborne.com/work/university-of-portsmouth/",
+      "sourceStatus": "accessible; agency case study found",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; agency case study found"
+    },
+    {
+      "id": "lead-global-03",
+      "region": "global",
+      "institution": "University of Lincoln",
+      "campaignTitle": "Student recruitment film / open-day campaign",
+      "leadUrl": "https://www.wallbreaker.co.uk/project/university-of-lincoln",
+      "sourceStatus": "accessible; production-agency case study found",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; production-agency case study found"
+    },
+    {
+      "id": "lead-global-04",
+      "region": "global",
+      "institution": "Durham University",
+      "campaignTitle": "Orbit: Start something big",
+      "leadUrl": "https://www.mortonward.co.uk/project/orbit/",
+      "sourceStatus": "accessible; agency case study found",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; agency case study found"
+    },
+    {
+      "id": "lead-global-05",
+      "region": "global",
+      "institution": "University of Portsmouth",
+      "campaignTitle": "Applicant nurture campaign",
+      "leadUrl": "https://www.athousandmonkeys.co.uk/CaseStudies/university-of-portsmouth-%E2%80%93-nurture-campaign",
+      "sourceStatus": "accessible; agency case study found",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; agency case study found"
+    },
+    {
+      "id": "lead-global-06",
+      "region": "global",
+      "institution": "University of Lincoln",
+      "campaignTitle": "Brand development",
+      "leadUrl": "https://www.ruddocks.co.uk/featured-work/university-of-lincoln-brand-development/",
+      "sourceStatus": "accessible; agency case study found",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; agency case study found"
+    },
+    {
+      "id": "lead-global-07",
+      "region": "global",
+      "institution": "Notion",
+      "campaignTitle": "Bento / modular interface reference (referencia visual, no necesariamente campaña universitaria)",
+      "leadUrl": "https://www.notion.so/",
+      "sourceStatus": "pista visual; campaña específica no identificada",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista visual; campaña específica no identificada"
+    },
+    {
+      "id": "lead-global-08",
+      "region": "global",
+      "institution": "Apple",
+      "campaignTitle": "Liquid Glass (referencia de interfaz)",
+      "leadUrl": "https://www.apple.com/",
+      "sourceStatus": "pista visual de presentación local; pieza/campaña específica pendiente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista visual de presentación local; pieza/campaña específica pendiente"
+    },
+    {
+      "id": "lead-global-09",
+      "region": "global",
+      "institution": "Santa Teresa Festival",
+      "campaignTitle": "Identidad de festival (referencia visual citada en presentación local)",
+      "leadUrl": "",
+      "sourceStatus": "URL primaria no localizada en esta pasada",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "URL primaria no localizada en esta pasada"
+    },
+    {
+      "id": "lead-global-10",
+      "region": "global",
+      "institution": "University of Oxford",
+      "campaignTitle": "Posible campaña de admisión/posicionamiento; título por identificar",
+      "leadUrl": "https://www.ox.ac.uk/",
+      "sourceStatus": "pista institucional, no evidencia de campaña",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional, no evidencia de campaña"
+    },
+    {
+      "id": "lead-global-11",
+      "region": "global",
+      "institution": "University of Cambridge",
+      "campaignTitle": "Posible campaña de admisión/posicionamiento; título por identificar",
+      "leadUrl": "https://www.cam.ac.uk/",
+      "sourceStatus": "pista institucional, no evidencia de campaña",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional, no evidencia de campaña"
+    },
+    {
+      "id": "lead-global-12",
+      "region": "global",
+      "institution": "University of Melbourne",
+      "campaignTitle": "Posible campaña de admisión/posicionamiento; título por identificar",
+      "leadUrl": "https://www.unimelb.edu.au/",
+      "sourceStatus": "pista institucional, no evidencia de campaña",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional, no evidencia de campaña"
+    },
+    {
+      "id": "lead-mx-01",
+      "region": "mexico",
+      "institution": "UPAEP",
+      "campaignTitle": "Se trata de ti",
+      "leadUrl": "https://www.upaep.mx/estudiantes/correodeldia/avisos/10547-ayrdanos-a-darle-voz-a-este-mensaje-participando-en-la-campara-publicitaria-%22se-trata-de-ti%22",
+      "sourceStatus": "accessible; aviso institucional nombra campaña publicitaria",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; aviso institucional nombra campaña publicitaria"
+    },
+    {
+      "id": "lead-mx-02",
+      "region": "mexico",
+      "institution": "Universidad Iberoamericana Ciudad de México",
+      "campaignTitle": "#ViolenciaEs",
+      "leadUrl": "https://prensa.ibero.mx/es-MX/nota/universidad-iberoamericana-cdmx-2019-un-ano-con-la-mirada-hacia-el-futuro",
+      "sourceStatus": "accessible; nota institucional confirma campaña y objetivo",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; nota institucional confirma campaña y objetivo"
+    },
+    {
+      "id": "lead-mx-03",
+      "region": "mexico",
+      "institution": "Benemérita Universidad Autónoma de Puebla",
+      "campaignTitle": "Lobos BUAP, Juego por ti",
+      "leadUrl": "https://www.buap.mx/content/dos-campa%C3%B1as-de-la-buap-ganan-el-reed-latino-2016",
+      "sourceStatus": "accessible; nota institucional documenta premios/campaña",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; nota institucional documenta premios/campaña"
+    },
+    {
+      "id": "lead-mx-04",
+      "region": "mexico",
+      "institution": "Tecnológico de Monterrey",
+      "campaignTitle": "Estrategia/Plan 2025 (campaña de difusión institucional; pieza específica pendiente)",
+      "leadUrl": "https://tec.mx/sites/default/files/repositorio/Marketing/pdf/informe-anual-2021-tecnologico-de-monterrey.pdf",
+      "sourceStatus": "informe institucional menciona campaña de comunicación; no se localizó sistema visual de campaña",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "informe institucional menciona campaña de comunicación; no se localizó sistema visual de campaña"
+    },
+    {
+      "id": "lead-mx-05",
+      "region": "mexico",
+      "institution": "Universidad Anáhuac México",
+      "campaignTitle": "Admisiones de licenciatura; campaña específica por identificar",
+      "leadUrl": "https://mexico.anahuac.mx/licenciaturas/admision-general",
+      "sourceStatus": "landing oficial de admisión, campaña no identificada",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "landing oficial de admisión, campaña no identificada"
+    },
+    {
+      "id": "lead-mx-06",
+      "region": "mexico",
+      "institution": "Tecmilenio",
+      "campaignTitle": "Admisiones / propósito de vida; campaña específica pendiente",
+      "leadUrl": "https://tecmilenio.mx/es/inicio",
+      "sourceStatus": "web institucional; no se identificó una campaña concreta",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "web institucional; no se identificó una campaña concreta"
+    },
+    {
+      "id": "lead-mx-07",
+      "region": "mexico",
+      "institution": "Universidad del Valle de México",
+      "campaignTitle": "Campaña institucional/admisión; por identificar",
+      "leadUrl": "https://uvm.mx/",
+      "sourceStatus": "pista institucional solamente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional solamente"
+    },
+    {
+      "id": "lead-mx-08",
+      "region": "mexico",
+      "institution": "UNITEC México",
+      "campaignTitle": "Campaña institucional/admisión; por identificar",
+      "leadUrl": "https://www.unitec.mx/",
+      "sourceStatus": "pista institucional solamente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional solamente"
+    },
+    {
+      "id": "lead-mx-09",
+      "region": "mexico",
+      "institution": "Universidad de Guadalajara",
+      "campaignTitle": "Campaña institucional; por identificar",
+      "leadUrl": "https://www.udg.mx/",
+      "sourceStatus": "pista institucional solamente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional solamente"
+    },
+    {
+      "id": "lead-mx-10",
+      "region": "mexico",
+      "institution": "Universidad Panamericana",
+      "campaignTitle": "Campaña institucional; por identificar",
+      "leadUrl": "https://www.up.edu.mx/",
+      "sourceStatus": "pista institucional solamente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional solamente"
+    },
+    {
+      "id": "lead-mx-11",
+      "region": "mexico",
+      "institution": "Universidad de las Américas Puebla",
+      "campaignTitle": "Campaña institucional/admisión; por identificar",
+      "leadUrl": "https://www.udlap.mx/",
+      "sourceStatus": "pista institucional solamente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional solamente"
+    },
+    {
+      "id": "lead-mx-12",
+      "region": "mexico",
+      "institution": "Universidad Autónoma Metropolitana",
+      "campaignTitle": "Campaña institucional; por identificar",
+      "leadUrl": "https://www.uam.mx/",
+      "sourceStatus": "pista institucional solamente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista institucional solamente"
+    },
+    {
+      "id": "lead-reg-01",
+      "region": "puebla-regional",
+      "institution": "Benemérita Universidad Autónoma de Puebla",
+      "campaignTitle": "Un año juntos CU2",
+      "leadUrl": "https://boletin.buap.mx/node/4160",
+      "sourceStatus": "accessible; boletín BUAP y premio Reed Latino 2025",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; boletín BUAP y premio Reed Latino 2025"
+    },
+    {
+      "id": "lead-reg-02",
+      "region": "puebla-regional",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Vive la IBERO 2025 (contenido institucional; confirmar campaña y piezas)",
+      "leadUrl": "https://www.iberopuebla.mx/",
+      "sourceStatus": "web institucional muestra nombre; alcance creativo por confirmar",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "web institucional muestra nombre; alcance creativo por confirmar"
+    },
+    {
+      "id": "lead-reg-03",
+      "region": "puebla-regional",
+      "institution": "Universidad Tec de Oriente",
+      "campaignTitle": "Campaña Back to School Otoño 2021",
+      "leadUrl": "https://mostgroup.mx/portfolio_page/tdo/",
+      "sourceStatus": "verificada en fuente accesible; análisis editorial y pieza enlazada documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "tdo-back-to-school-2021"
+    },
+    {
+      "id": "lead-reg-04",
+      "region": "puebla-regional",
+      "institution": "IMEP",
+      "campaignTitle": "Contenido institucional y campañas publicitarias en Facebook",
+      "leadUrl": "https://conektica.com/portfolio/imep",
+      "sourceStatus": "pista de portafolio de agencia; verificar accesibilidad y alcance",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista de portafolio de agencia; verificar accesibilidad y alcance"
+    },
+    {
+      "id": "lead-reg-05",
+      "region": "puebla-regional",
+      "institution": "BUAP / CUPS",
+      "campaignTitle": "Apúntate — alfabetización y participación social",
+      "leadUrl": "https://repositorioinstitucional.buap.mx/items/db162999-8d72-4b37-b975-9175518ee0ef",
+      "sourceStatus": "repositorio institucional; tesis/caso de campaña social",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "repositorio institucional; tesis/caso de campaña social"
+    },
+    {
+      "id": "lead-reg-06",
+      "region": "puebla-regional",
+      "institution": "BUAP / CUPS",
+      "campaignTitle": "Campaña social con publicidad de guerrilla",
+      "leadUrl": "https://repositorioinstitucional.buap.mx/items/8cb371c7-8847-48e4-9585-5d89f0fb3f48",
+      "sourceStatus": "repositorio institucional; tesis 2014",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "repositorio institucional; tesis 2014"
+    },
+    {
+      "id": "lead-reg-07",
+      "region": "puebla-regional",
+      "institution": "BUAP",
+      "campaignTitle": "Identidad gráfica del Complejo Cultural Universitario XV aniversario",
+      "leadUrl": "https://boletin.buap.mx/node/3227",
+      "sourceStatus": "accessible; boletín oficial describe intervenciones y autoría parcial",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "accessible; boletín oficial describe intervenciones y autoría parcial"
+    },
+    {
+      "id": "lead-reg-08",
+      "region": "puebla-regional",
+      "institution": "BUAP",
+      "campaignTitle": "Campaña universitaria de prevención social de violencia",
+      "leadUrl": "https://boletin.buap.mx/node/4108",
+      "sourceStatus": "pista oficial encontrada; revisar contenido visual y detalles",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "pista oficial encontrada; revisar contenido visual y detalles"
+    },
+    {
+      "id": "lead-reg-09",
+      "region": "puebla-regional",
+      "institution": "BUAP",
+      "campaignTitle": "La BUAP piensa en ti",
+      "leadUrl": "https://opac.biblio.iteso.mx/vufind/Record/990003464450110061",
+      "sourceStatus": "registro bibliográfico ITESO de promocionales; fuente secundaria de catálogo",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "registro bibliográfico ITESO de promocionales; fuente secundaria de catálogo"
+    },
+    {
+      "id": "lead-reg-10",
+      "region": "puebla-regional",
+      "institution": "BUAP",
+      "campaignTitle": "Admisión BUAP (ciclo vigente; pieza de campaña por identificar)",
+      "leadUrl": "https://admision.buap.mx/",
+      "sourceStatus": "portal oficial de admisión; campaña visual no identificada",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "portal oficial de admisión; campaña visual no identificada"
+    },
+    {
+      "id": "lead-reg-11",
+      "region": "puebla-regional",
+      "institution": "UPAEP",
+      "campaignTitle": "Una Apuesta de Futuro (convocatoria / comunicación de programa)",
+      "leadUrl": "https://upaep.mx/vuelaupaep/",
+      "sourceStatus": "programa institucional; campaña visual concreta pendiente",
+      "decision": "lead no aprobado: evidencia insuficiente para verificar en conjunto campaña, pieza/análisis y crédito/uso; requiere revisión adicional",
+      "limitation": "programa institucional; campaña visual concreta pendiente"
+    },
+    {
+      "id": "lead-reg-12",
+      "region": "puebla-regional",
+      "institution": "UDLAP",
+      "campaignTitle": "Power Of Youth",
+      "leadUrl": "https://blog.udlap.mx/blog/2016/12/08/estudiantesudlaprealizanpowerofyouth",
+      "sourceStatus": "verificada en fuente accesible; análisis editorial y pieza enlazada documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "udlap-power-of-youth"
+    },
+    {
+      "id": "curated-qmul-recruitment-campaign",
+      "region": "global",
+      "institution": "Queen Mary University of London",
+      "campaignTitle": "Student recruitment campaign — Learning that inspires",
+      "leadUrl": "https://www.ie.co.uk/work/queen-mary-university-london",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "qmul-recruitment-campaign"
+    },
+    {
+      "id": "curated-goldsmiths-one-goldsmiths",
+      "region": "global",
+      "institution": "Goldsmiths, University of London",
+      "campaignTitle": "One Goldsmiths — recruitment campaign identity",
+      "leadUrl": "https://baxterandbailey.co.uk/work/goldsmiths-university-of-london/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "goldsmiths-one-goldsmiths"
+    },
+    {
+      "id": "curated-soas-connected-world",
+      "region": "global",
+      "institution": "SOAS University of London",
+      "campaignTitle": "Interconnected campaign — Until you understand the connections…",
+      "leadUrl": "https://baxterandbailey.co.uk/work/soas-university-of-london/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "soas-connected-world"
+    },
+    {
+      "id": "curated-northampton-find-you",
+      "region": "global",
+      "institution": "University of Northampton",
+      "campaignTitle": "Find You — student recruitment campaign",
+      "leadUrl": "https://www.rkh.co.uk/case-studies/a-fresh-approach-to-student-recruitment/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "northampton-find-you"
+    },
+    {
+      "id": "curated-ual-because-world-needs-creativity",
+      "region": "global",
+      "institution": "University of the Arts London",
+      "campaignTitle": "Because the world needs creativity",
+      "leadUrl": "https://www.chriscurran.me/case-studies/ual",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "ual-because-world-needs-creativity"
+    },
+    {
+      "id": "curated-anahuac-global-management",
+      "region": "mexico",
+      "institution": "Universidad Anáhuac México",
+      "campaignTitle": "Global Leaders / Global Management",
+      "leadUrl": "https://www.hint.mx/blog/campana-creativa-global-leaders-universidad-anahuac-mexico",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "anahuac-global-management"
+    },
+    {
+      "id": "curated-aliat-claro-que-puedo",
+      "region": "mexico",
+      "institution": "Aliat Universidades",
+      "campaignTitle": "Claro que Puedo",
+      "leadUrl": "https://www.merca20.com/claro-que-puedo-una-campana-que-entiende-la-realidad-universitaria/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "aliat-claro-que-puedo"
+    },
+    {
+      "id": "curated-anahuac-mayab-dale-play",
+      "region": "mexico",
+      "institution": "Universidad Anáhuac Mayab",
+      "campaignTitle": "Dale play a tu siguiente nivel",
+      "leadUrl": "https://mantra.mx/es/branding/66/universidad-anahuac-merida",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "anahuac-mayab-dale-play"
+    },
+    {
+      "id": "curated-unam-somos-ayer-siempre",
+      "region": "mexico",
+      "institution": "Universidad Nacional Autónoma de México",
+      "campaignTitle": "Somos UNAM, ayer y siempre",
+      "leadUrl": "https://www.facebook.com/UNAM.MX.Oficial/videos/eres-egresada-o-egresado-de-la-unam/1804442453825325/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "unam-somos-ayer-siempre"
+    },
+    {
+      "id": "curated-uam-quedate-2026",
+      "region": "mexico",
+      "institution": "Universidad Autónoma Metropolitana",
+      "campaignTitle": "Quédate en la UAM",
+      "leadUrl": "https://www.instagram.com/reel/DeNpByTCvok/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "uam-quedate-2026"
+    },
+    {
+      "id": "curated-tec-intervenir-futuro",
+      "region": "mexico",
+      "institution": "Tecnológico de Monterrey",
+      "campaignTitle": "Intervenir el futuro",
+      "leadUrl": "https://conecta.tec.mx/es/noticias/nacional/institucion/5-aspectos-para-conocer-y-sumarse-la-mision-filantropica-del-tec",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "tec-intervenir-futuro"
+    },
+    {
+      "id": "curated-ibero-puebla-cero-tolerancia",
+      "region": "puebla-regional",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Cero Tolerancia a la Violencia",
+      "leadUrl": "https://www.iberopuebla.mx/cero-tolerancia",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "ibero-puebla-cero-tolerancia"
+    },
+    {
+      "id": "curated-ibero-puebla-construimos-esperanza",
+      "region": "puebla-regional",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Campaña Universitaria 2025: Construimos Esperanza",
+      "leadUrl": "https://repo.iberopuebla.mx/cu2025/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "ibero-puebla-construimos-esperanza"
+    },
+    {
+      "id": "curated-ibero-puebla-reconocernos",
+      "region": "puebla-regional",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Campaña Universitaria 2026: Reconocernos, mirarnos cara a cara",
+      "leadUrl": "https://repo.iberopuebla.mx/cu2026/",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "ibero-puebla-reconocernos"
+    },
+    {
+      "id": "curated-ibero-vivo-mis-derechos",
+      "region": "puebla-regional",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Vivo mis derechos universitarios",
+      "leadUrl": "https://www.iberopuebla.mx/noticias/derechos-universitarios",
+      "sourceStatus": "verificada en fuente accesible; análisis de pieza, campos, crédito y derechos documentados",
+      "decision": "admitida a approved-campaigns.json; revisión humana final pendiente",
+      "approvedCampaignId": "ibero-vivo-mis-derechos"
+    }
+  ]
+}

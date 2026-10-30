@@ -1,0 +1,218 @@
+{
+  "note": "Previsualizaciones derivadas de los bocetos IA propios del proyecto. Los originales en `bocetos IA/` son la fuente; estas imágenes son sólo para revisión interna.",
+  "maxSide": 1600,
+  "quality": 88,
+  "generatedWith": "tools/build-bocetos.mjs",
+  "items": [
+    {
+      "filename": "Años que dejan huella.png",
+      "original": "../bocetos IA/Años que dejan huella.png",
+      "preview": "media/bocetos/anos-que-dejan-huella.jpg",
+      "width": 900,
+      "height": 1600,
+      "originalBytes": 2250305,
+      "previewBytes": 439822,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Cartel UVP_ Vocación que deja huella.png",
+      "original": "../bocetos IA/Cartel UVP_ Vocación que deja huella.png",
+      "preview": "media/bocetos/cartel-uvp-vocacion-que-deja-huella.jpg",
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 2243950,
+      "previewBytes": 466123,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Deja Huella en Medicina UVP.png",
+      "original": "../bocetos IA/Deja Huella en Medicina UVP.png",
+      "preview": "media/bocetos/deja-huella-en-medicina-uvp.jpg",
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 1998360,
+      "previewBytes": 489718,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Deja Huella_ Cuidado Veterinario con Propósito.png",
+      "original": "../bocetos IA/Deja Huella_ Cuidado Veterinario con Propósito.png",
+      "preview": "media/bocetos/deja-huella-cuidado-veterinario-con-proposito.jpg",
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 2138251,
+      "previewBytes": 509198,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Deja huella en medicina.png",
+      "original": "../bocetos IA/Deja huella en medicina.png",
+      "preview": "media/bocetos/deja-huella-en-medicina.jpg",
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 1996651,
+      "previewBytes": 477928,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Deja huella en veterinaria.png",
+      "original": "../bocetos IA/Deja huella en veterinaria.png",
+      "preview": "media/bocetos/deja-huella-en-veterinaria.jpg",
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 2151482,
+      "previewBytes": 416793,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Deja huella_ vocación veterinaria UVP.png",
+      "original": "../bocetos IA/Deja huella_ vocación veterinaria UVP.png",
+      "preview": "media/bocetos/deja-huella-vocacion-veterinaria-uvp.jpg",
+      "width": 900,
+      "height": 1600,
+      "originalBytes": 2151174,
+      "previewBytes": 390962,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Experiencias culinarias que dejan huella.jpg",
+      "original": "../bocetos IA/Experiencias culinarias que dejan huella.jpg",
+      "preview": "media/bocetos/experiencias-culinarias-que-dejan-huella.jpg",
+      "width": 1600,
+      "height": 669,
+      "originalBytes": 928737,
+      "previewBytes": 331451,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Experiencias que dejan huella culinaria-2.jpg",
+      "original": "../bocetos IA/Experiencias que dejan huella culinaria-2.jpg",
+      "preview": "media/bocetos/experiencias-que-dejan-huella-culinaria-2.jpg",
+      "width": 1600,
+      "height": 669,
+      "originalBytes": 944141,
+      "previewBytes": 343119,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Experiencias que dejan huella culinaria-3.jpg",
+      "original": "../bocetos IA/Experiencias que dejan huella culinaria-3.jpg",
+      "preview": "media/bocetos/experiencias-que-dejan-huella-culinaria-3.jpg",
+      "width": 1600,
+      "height": 669,
+      "originalBytes": 944496,
+      "previewBytes": 377101,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Experiencias que dejan huella culinaria.jpg",
+      "original": "../bocetos IA/Experiencias que dejan huella culinaria.jpg",
+      "preview": "media/bocetos/experiencias-que-dejan-huella-culinaria.jpg",
+      "width": 1600,
+      "height": 669,
+      "originalBytes": 848009,
+      "previewBytes": 330259,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Experiencias que dejan huella.png",
+      "original": "../bocetos IA/Experiencias que dejan huella.png",
+      "preview": "media/bocetos/experiencias-que-dejan-huella.jpg",
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 2223618,
+      "previewBytes": 434529,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Imagen de ChatGPT 21 oct 2026, 12_45_50-1.png",
+      "original": "../bocetos IA/Imagen de ChatGPT 21 oct 2026, 12_45_50-1.png",
+      "preview": "media/bocetos/imagen-de-chatgpt-21-oct-2026-12-45-50-1.jpg",
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 2635918,
+      "previewBytes": 747770,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Imagen de ChatGPT 21 oct 2026, 12_45_52-2.png",
+      "original": "../bocetos IA/Imagen de ChatGPT 21 oct 2026, 12_45_52-2.png",
+      "preview": "media/bocetos/imagen-de-chatgpt-21-oct-2026-12-45-52-2.jpg",
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 1878025,
+      "previewBytes": 427128,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Imagen de ChatGPT 21 oct 2026, 12_45_52-3.png",
+      "original": "../bocetos IA/Imagen de ChatGPT 21 oct 2026, 12_45_52-3.png",
+      "preview": "media/bocetos/imagen-de-chatgpt-21-oct-2026-12-45-52-3.jpg",
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 2257531,
+      "previewBytes": 615672,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "PROPUESTAS_TENDENCIAS .png",
+      "original": "../bocetos IA/PROPUESTAS_TENDENCIAS .png",
+      "preview": "media/bocetos/propuestas-tendencias.jpg",
+      "width": 1600,
+      "height": 1066,
+      "originalBytes": 2561361,
+      "previewBytes": 675918,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Sabores que dejan huella en UVP.png",
+      "original": "../bocetos IA/Sabores que dejan huella en UVP.png",
+      "preview": "media/bocetos/sabores-que-dejan-huella-en-uvp.jpg",
+      "width": 1066,
+      "height": 1600,
+      "originalBytes": 2082886,
+      "previewBytes": 470222,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Tu pasión deja huella en salud 2.png",
+      "original": "../bocetos IA/Tu pasión deja huella en salud 2.png",
+      "preview": "media/bocetos/tu-pasion-deja-huella-en-salud-2.jpg",
+      "width": 1066,
+      "height": 1600,
+      "originalBytes": 2055918,
+      "previewBytes": 456096,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Tu pasión deja huella en salud.png",
+      "original": "../bocetos IA/Tu pasión deja huella en salud.png",
+      "preview": "media/bocetos/tu-pasion-deja-huella-en-salud.jpg",
+      "width": 1066,
+      "height": 1600,
+      "originalBytes": 2011248,
+      "previewBytes": 441904,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Veterinaria que deja huella.png",
+      "original": "../bocetos IA/Veterinaria que deja huella.png",
+      "preview": "media/bocetos/veterinaria-que-deja-huella.jpg",
+      "width": 1600,
+      "height": 1600,
+      "originalBytes": 2279307,
+      "previewBytes": 681604,
+      "referencedInAnalysis": true
+    },
+    {
+      "filename": "Vocación que deja huella en UVP.png",
+      "original": "../bocetos IA/Vocación que deja huella en UVP.png",
+      "preview": "media/bocetos/vocacion-que-deja-huella-en-uvp.jpg",
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 2303510,
+      "previewBytes": 486647,
+      "referencedInAnalysis": true
+    }
+  ]
+}

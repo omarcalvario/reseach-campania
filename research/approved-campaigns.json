@@ -1,0 +1,2552 @@
+{
+  "schemaVersion": "1.0",
+  "campaigns": [
+    {
+      "id": "durham-undergraduate-2024-be-you",
+      "institution": "Durham University",
+      "campaignTitle": "Undergraduate Campaign 2024 — Be extraordinary. Be you.",
+      "region": "global",
+      "country": "Reino Unido",
+      "city": "Durham",
+      "dateLabel": "2024",
+      "objetivo": "Diseñar la campaña general de reclutamiento de licenciatura para 2024; diferenciarla y apoyar la ampliación del acceso.",
+      "publico": "Aspirantes ambiciosos de diversos orígenes que buscan pertenencia y desafío.",
+      "mensaje": "Be extraordinary. Be you.; variantes: be inspired, be passionate, be pioneering.",
+      "tono": "Interpretación: afirmativo, contemporáneo y aspiracional; la agencia califica el enfoque como fresh y Gen Z-focused.",
+      "concepto": "Be You: mostrar Durham como lugar donde aspirantes pueden sentirse reconocidos y en casa mientras se desarrollan.",
+      "llamada_a_la_accion": "Explorar la experiencia de Durham mediante la invitación Be extraordinary. Be you.; CTA transaccional no descrito.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-durham-undergraduate-2024-be-you"
+          ],
+          "supportingExcerpt": "Design of the overall Durham University undergraduate campaign for 2024 entry; attract the best students and help to widen access."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-durham-undergraduate-2024-be-you"
+          ],
+          "supportingExcerpt": "Aimed at ambitious students looking to be both accepted and challenged."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-durham-undergraduate-2024-be-you"
+          ],
+          "supportingExcerpt": "Be extraordinary. Be you. / be inspired, be passionate, be pioneering."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-durham-undergraduate-2024-be-you"
+          ],
+          "supportingExcerpt": "Fresh, Gen Z-focused approach; students should feel championed, recognised and at home."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-durham-undergraduate-2024-be-you"
+          ],
+          "supportingExcerpt": "We created the Be You campaign concept."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-durham-undergraduate-2024-be-you"
+          ],
+          "supportingExcerpt": "The campaign invites students to “Be extraordinary. Be you.”; no application button described."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "vida estudiantil",
+        "posicionamiento"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-durham-undergraduate-2024-be-you"
+      ],
+      "sourceIds": [
+        "src-durham-undergraduate-2024-be-you"
+      ]
+    },
+    {
+      "id": "qmul-recruitment-campaign",
+      "institution": "Queen Mary University of London",
+      "campaignTitle": "Student recruitment campaign — Learning that inspires",
+      "region": "global",
+      "country": "Reino Unido",
+      "city": "Londres",
+      "dateLabel": "Campaña multicanal; fecha de ejecución no indicada en ficha consultada",
+      "objetivo": "Reforzar y actualizar la imagen de QMUL y liderar una campaña de reclutamiento que destaque diversidad e intensidad académica.",
+      "publico": "Aspirantes con buen rendimiento académico; familias, docentes y personas influyentes.",
+      "mensaje": "Learning that inspires; la campaña muestra diversidad de pensamiento e ideas.",
+      "tono": "Interpretación: brillante, inclusivo y seguro; paleta viva con tipografía contundente pero legible.",
+      "concepto": "Estudiantes reales como rostro de una universidad diversa y académicamente sólida.",
+      "llamada_a_la_accion": "Invitación a conocer/open day y presentar solicitud UCAS; CTA aparece asociado a jornadas y fecha UCAS.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-qmul-recruitment-campaign"
+          ],
+          "supportingExcerpt": "It was time to strengthen and refresh QMUL’s image, and to lead a new student recruitment campaign with a compelling creative concept."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-qmul-recruitment-campaign"
+          ],
+          "supportingExcerpt": "Prospective university students with good academic results, and their parents, teachers and other influencers."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-qmul-recruitment-campaign"
+          ],
+          "supportingExcerpt": "The campaign needed to emphasise the university’s diversity of thought and ideas – and the intellectual brilliance it delivers."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-qmul-recruitment-campaign"
+          ],
+          "supportingExcerpt": "Bold typography in carefully chosen colour pairings to ensure it’s bright but legible."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-qmul-recruitment-campaign"
+          ],
+          "supportingExcerpt": "Real Queen Mary students front and centre to show welcoming faces and natural diversity."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-qmul-recruitment-campaign"
+          ],
+          "supportingExcerpt": "Calls to action and long-form content to promote the autumn open day and UCAS application deadline."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "posicionamiento",
+        "vida estudiantil"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-qmul-recruitment-campaign"
+      ],
+      "sourceIds": [
+        "src-qmul-recruitment-campaign"
+      ]
+    },
+    {
+      "id": "goldsmiths-one-goldsmiths",
+      "institution": "Goldsmiths, University of London",
+      "campaignTitle": "One Goldsmiths — recruitment campaign identity",
+      "region": "global",
+      "country": "Reino Unido",
+      "city": "Londres",
+      "dateLabel": "Diseñada como campaña de tres años; luego se extendió a seis (periodo inicial no fechado en el caso)",
+      "objetivo": "Crear una identidad de reclutamiento para atraer estudiantes brillantes y valientes durante un ciclo inicial de tres años.",
+      "publico": "Aspirantes a disciplinas creativas, humanidades, ciencias sociales, computación y negocios.",
+      "mensaje": "One Goldsmiths: eclecticism, individuality and diversity at the heart of the solution.",
+      "tono": "Interpretación: expresivo, ecléctico y humano; busca una voz singular dentro de un lenguaje visual complejo.",
+      "concepto": "La diversidad de disciplinas y personas se comunica como un “melting pot” bajo una idea común.",
+      "llamada_a_la_accion": "No se localizó CTA único; la campaña orienta a explorar la oferta y estudiar en Goldsmiths.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-goldsmiths-one-goldsmiths"
+          ],
+          "supportingExcerpt": "Our task was to create a recruitment campaign identity to help the university achieve its ambition to attract the best, brightest and bravest students."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-goldsmiths-one-goldsmiths"
+          ],
+          "supportingExcerpt": "Prospective students; campaign positioned for a wide range of courses and specialisms."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-goldsmiths-one-goldsmiths"
+          ],
+          "supportingExcerpt": "One Goldsmiths concept placed eclecticism, individuality and diversity at the heart of the solution."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-goldsmiths-one-goldsmiths"
+          ],
+          "supportingExcerpt": "The approach was described by Goldsmiths marketing as restrained, impactful and authentic."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-goldsmiths-one-goldsmiths"
+          ],
+          "supportingExcerpt": "One Goldsmiths; eclectic disciplines and individuals unified in a flexible campaign identity."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-goldsmiths-one-goldsmiths"
+          ],
+          "supportingExcerpt": "No single conversion CTA is specified in the case study."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "posicionamiento",
+        "vida estudiantil",
+        "cultura"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-goldsmiths-one-goldsmiths"
+      ],
+      "sourceIds": [
+        "src-goldsmiths-one-goldsmiths"
+      ]
+    },
+    {
+      "id": "soas-connected-world",
+      "institution": "SOAS University of London",
+      "campaignTitle": "Interconnected campaign — Until you understand the connections…",
+      "region": "global",
+      "country": "Reino Unido",
+      "city": "Londres",
+      "dateLabel": "Campaña de reclutamiento concebida para tres años; año de inicio no indicado en la fuente",
+      "objetivo": "Crear una campaña inteligente, activa y reflexiva para atraer aspirantes y expresar la mirada internacional de SOAS.",
+      "publico": "Aspirantes de alto potencial; estudiantes interesados en asuntos globales y ciudadanía activa.",
+      "mensaje": "Until you understand the connections, you’ll never change the world.",
+      "tono": "Interpretación: intelectual, inquisitivo y retador; la fuente describe una comunicación que busca sorprender y desafiar.",
+      "concepto": "La interconexión de historia, política, finanzas y actualidad como plataforma creativa de reclutamiento.",
+      "llamada_a_la_accion": "La frase lema invita a comprender las conexiones y cambiar el mundo; CTA de solicitud concreta no localizado.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-soas-connected-world"
+          ],
+          "supportingExcerpt": "Our aim was to devise an intelligent, active and thought-provoking campaign to attract a consistently high calibre of new students."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-soas-connected-world"
+          ],
+          "supportingExcerpt": "Prospective students; SOAS students come from over 135 countries per the agency case."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-soas-connected-world"
+          ],
+          "supportingExcerpt": "Until you understand the connections, you’ll never change the world."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-soas-connected-world"
+          ],
+          "supportingExcerpt": "The campaign is described as intelligent, active and thought-provoking."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-soas-connected-world"
+          ],
+          "supportingExcerpt": "Interconnectedness acts as the creative springboard for the campaign."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-soas-connected-world"
+          ],
+          "supportingExcerpt": "No application CTA is specified in the source."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "investigación",
+        "posicionamiento"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-soas-connected-world"
+      ],
+      "sourceIds": [
+        "src-soas-connected-world"
+      ]
+    },
+    {
+      "id": "northampton-find-you",
+      "institution": "University of Northampton",
+      "campaignTitle": "Find You — student recruitment campaign",
+      "region": "global",
+      "country": "Reino Unido",
+      "city": "Northampton",
+      "dateLabel": "Brief iniciado en mayo de 2022; campaña lista para lanzamiento en septiembre; prospecto 2024 posterior",
+      "objetivo": "Desarrollar una campaña multicanal de reclutamiento basada en investigación de necesidades, barreras y motivaciones del proceso de elección.",
+      "publico": "Aspirantes y sus familias/cuidadores/docentes, con mensajes ajustados a cada papel de decisión.",
+      "mensaje": "Find You.",
+      "tono": "Interpretación: empático, orientado al autodescubrimiento y basado en evidencia cualitativa.",
+      "concepto": "Proposición de valor desarrollada con investigación cualitativa y testeo de rutas/mensajes con participantes.",
+      "llamada_a_la_accion": "La campaña dirige a sitio y canales de admisión; la fuente describe clicks al sitio, no CTA textual uniforme.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-northampton-find-you"
+          ],
+          "supportingExcerpt": "The campaign proposition was informed by extensive primary audience research and a Customer Value Proposition map."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-northampton-find-you"
+          ],
+          "supportingExcerpt": "Students, parents, carers and teachers were included in the research and decision journey."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-northampton-find-you"
+          ],
+          "supportingExcerpt": "The campaign proposition was “Find You”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-northampton-find-you"
+          ],
+          "supportingExcerpt": "The team tested concepts and messaging with the original research participants to assess resonance."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-northampton-find-you"
+          ],
+          "supportingExcerpt": "Find You emerged from audience insight into needs, barriers and drivers."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-northampton-find-you"
+          ],
+          "supportingExcerpt": "Campaign assets directed audiences to the university website; exact uniform CTA not stated."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "posicionamiento"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-northampton-find-you"
+      ],
+      "sourceIds": [
+        "src-northampton-find-you"
+      ]
+    },
+    {
+      "id": "ual-because-world-needs-creativity",
+      "institution": "University of the Arts London",
+      "campaignTitle": "Because the world needs creativity",
+      "region": "global",
+      "country": "Reino Unido",
+      "city": "Londres",
+      "dateLabel": "Campañas documentadas durante seis años; prospecto citado 2021/22",
+      "objetivo": "Unificar la campaña de reclutamiento con una declaración de valores y propósito, y mostrar el talento real de sus seis colleges.",
+      "publico": "Aspirantes a formación creativa internacional; estudiantes potenciales de los seis colleges.",
+      "mensaje": "Because the world needs creativity.",
+      "tono": "Interpretación: expresivo, documental y orgulloso del trabajo estudiantil.",
+      "concepto": "El colon del logo de UAL se reinterpreta como espacio/plataforma para exhibir proyectos estudiantiles.",
+      "llamada_a_la_accion": "La frase Because the world needs creativity funciona como invitación de marca; CTA de solicitud no especificado.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-ual-because-world-needs-creativity"
+          ],
+          "supportingExcerpt": "The UAL recruitment campaign was built around the statement “Because the world needs creativity.”"
+        },
+        "publico": {
+          "sourceIds": [
+            "src-ual-because-world-needs-creativity"
+          ],
+          "supportingExcerpt": "The campaign showcases work from students across UAL’s six colleges and recruits the next generation of creative talent."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-ual-because-world-needs-creativity"
+          ],
+          "supportingExcerpt": "“Because the world needs creativity.”"
+        },
+        "tono": {
+          "sourceIds": [
+            "src-ual-because-world-needs-creativity"
+          ],
+          "supportingExcerpt": "Photography is described as human, authentic and inspirational, showing students in real environments."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-ual-because-world-needs-creativity"
+          ],
+          "supportingExcerpt": "The colon from the UAL logo inspired a “space for creativity”; its two squares frame student work."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-ual-because-world-needs-creativity"
+          ],
+          "supportingExcerpt": "No transactional CTA is stated in the case."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "vida estudiantil",
+        "cultura"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-ual-because-world-needs-creativity"
+      ],
+      "sourceIds": [
+        "src-ual-because-world-needs-creativity"
+      ]
+    },
+    {
+      "id": "anahuac-global-management",
+      "institution": "Universidad Anáhuac México",
+      "campaignTitle": "Global Leaders / Global Management",
+      "region": "mexico",
+      "country": "México",
+      "city": "Ciudad de México",
+      "dateLabel": "2022-06-14 (publicación del caso de agencia)",
+      "objetivo": "Crear una imagen y concepto para promover la nueva licenciatura Global Management, impartida 100% en inglés.",
+      "publico": "Estudiantes de México y otros países interesados en empresas/proyectos internacionales.",
+      "mensaje": "Global Management; líderes globales capaces de dirigir empresas y proyectos internacionales (promesa funcional descrita).",
+      "tono": "Interpretación: ambicioso, internacional y aspiracional.",
+      "concepto": "Poner el mensaje principal en primer plano y adaptar el concepto a publicidad digital e inventario urbano.",
+      "llamada_a_la_accion": "Consultar la nueva licenciatura Global Management; el caso enlaza a la ficha del programa.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-anahuac-global-management"
+          ],
+          "supportingExcerpt": "The university needed an image and graphic concept for promoting the new 100% English-language Global Management degree."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-anahuac-global-management"
+          ],
+          "supportingExcerpt": "The program offers students from around the world the opportunity to study in Mexico and prepare for international business/project leadership."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-anahuac-global-management"
+          ],
+          "supportingExcerpt": "The central campaign message is the protagonist, accompanied by supporting messages."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-anahuac-global-management"
+          ],
+          "supportingExcerpt": "The agency says the message should be transcendental and inspiring."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-anahuac-global-management"
+          ],
+          "supportingExcerpt": "A multi-channel creative concept to position the university and new program."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-anahuac-global-management"
+          ],
+          "supportingExcerpt": "The campaign promotes the linked Global Management program."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "posicionamiento",
+        "innovación"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-anahuac-global-management"
+      ],
+      "sourceIds": [
+        "src-anahuac-global-management"
+      ]
+    },
+    {
+      "id": "aliat-claro-que-puedo",
+      "institution": "Aliat Universidades",
+      "campaignTitle": "Claro que Puedo",
+      "region": "mexico",
+      "country": "México",
+      "city": "Red nacional de universidades",
+      "dateLabel": "2019-08-06 (artículo/campaña descrita)",
+      "objetivo": "Impulsar una cultura de acceso y formación universitaria mediante apoyo y acompañamiento, en lugar de solo prometer sueños futuros.",
+      "publico": "Jóvenes estudiantes de las universidades Aliat; el vocero declara que se enfocaron en realidad cotidiana y aprendizaje.",
+      "mensaje": "Claro que Puedo; “eres un boceto y vas construyendo tu persona” según el directivo entrevistado.",
+      "tono": "Interpretación: alentador, cotidiano y de apoyo; basado en entrevista a Chief Marketing and Digital Officer de Aliat.",
+      "concepto": "Una persona representada como boceto que va construyéndose; tutoría/acompañamiento como soporte narrativo.",
+      "llamada_a_la_accion": "Claro que Puedo / conocer planes y modalidades (CTA editorial al sitio enlazado).",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-aliat-claro-que-puedo"
+          ],
+          "supportingExcerpt": "Aliat launched #ClaroQuePuedo to promote a culture of access to university education with a system of support."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-aliat-claro-que-puedo"
+          ],
+          "supportingExcerpt": "The executive explains the audience “lives day to day”; the campaign addresses students in Aliat institutions."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-aliat-claro-que-puedo"
+          ],
+          "supportingExcerpt": "The campaign visualizes students as sketches/building their person and says “Claro que Puedo”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-aliat-claro-que-puedo"
+          ],
+          "supportingExcerpt": "An Aliat marketing executive describes the message as supporting access, relevance and mentors."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-aliat-claro-que-puedo"
+          ],
+          "supportingExcerpt": "A person as an unfinished sketch who builds themselves over time."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-aliat-claro-que-puedo"
+          ],
+          "supportingExcerpt": "The article links “Conoce nuestros planes y modalidades”; campaign video asks “¿crees que estás solo?”."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "empleabilidad",
+        "comunidad",
+        "posicionamiento"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-aliat-claro-que-puedo"
+      ],
+      "sourceIds": [
+        "src-aliat-claro-que-puedo"
+      ]
+    },
+    {
+      "id": "anahuac-mayab-dale-play",
+      "institution": "Universidad Anáhuac Mayab",
+      "campaignTitle": "Dale play a tu siguiente nivel",
+      "region": "mexico",
+      "country": "México",
+      "city": "Mérida, Yucatán",
+      "dateLabel": "2021 (caso de agencia); premio Selección Anuaria 2023",
+      "objetivo": "Crear un concepto de comunicación para programas de Posgrados y Educación Continua que transmita experiencia, tecnología, dinamismo, calidad y vanguardia.",
+      "publico": "Profesionales con aspiraciones de avanzar en su carrera y usuarios de posgrado/educación continua.",
+      "mensaje": "Dale play a tu siguiente nivel; “dar el siguiente paso en tu profesión”.",
+      "tono": "Interpretación: aspiracional y cercano, con estética futurista/digital descrita por la agencia.",
+      "concepto": "El ecosistema digital de la universidad reta y acompaña al estudiante en su siguiente paso profesional.",
+      "llamada_a_la_accion": "Dale play a tu siguiente nivel (CTA conceptual); iniciar exploración de oferta profesional.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-anahuac-mayab-dale-play"
+          ],
+          "supportingExcerpt": "The brief was to create the creative communication concept for postgraduate and continuing-education programs."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-anahuac-mayab-dale-play"
+          ],
+          "supportingExcerpt": "The campaign addresses people with professional dreams and aspirations."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-anahuac-mayab-dale-play"
+          ],
+          "supportingExcerpt": "“Dale play a tu siguiente nivel” and “dar el siguiente paso en tu profesión”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-anahuac-mayab-dale-play"
+          ],
+          "supportingExcerpt": "The agency describes an aspirational and close narrative within a digital world."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-anahuac-mayab-dale-play"
+          ],
+          "supportingExcerpt": "A digital ecosystem that encourages, challenges and accompanies users as they pursue goals."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-anahuac-mayab-dale-play"
+          ],
+          "supportingExcerpt": "The slogan itself invites the user to take the next professional step."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "posicionamiento",
+        "educación continua"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-anahuac-mayab-dale-play"
+      ],
+      "sourceIds": [
+        "src-anahuac-mayab-dale-play"
+      ]
+    },
+    {
+      "id": "unam-somos-ayer-siempre",
+      "institution": "Universidad Nacional Autónoma de México",
+      "campaignTitle": "Somos UNAM, ayer y siempre",
+      "region": "mexico",
+      "country": "México",
+      "city": "Ciudad de México",
+      "dateLabel": "2025; convocatoria hasta el 28 de julio de 2025",
+      "objetivo": "Invitar a egresadas y egresados a compartir fotos universitarias para construir memoria compartida.",
+      "publico": "Egresadas y egresados de la UNAM.",
+      "mensaje": "Somos UNAM, ayer y siempre; “comparte recuerdos, construyamos memoria”.",
+      "tono": "Interpretación: nostálgico, colaborativo y celebratorio.",
+      "concepto": "La memoria de comunidad se construye con fotografías aportadas por egresados.",
+      "llamada_a_la_accion": "Enviar fotografías al correo indicado antes del cierre de convocatoria.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-unam-somos-ayer-siempre"
+          ],
+          "supportingExcerpt": "UNAM’s official post invites alumni to send photographs from their university years as part of a campaign celebrating shared history."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-unam-somos-ayer-siempre"
+          ],
+          "supportingExcerpt": "Alumni / former students (egresadas y egresados)."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-unam-somos-ayer-siempre"
+          ],
+          "supportingExcerpt": "“Somos UNAM, ayer y siempre”; “comparte recuerdos, construyamos memoria”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-unam-somos-ayer-siempre"
+          ],
+          "supportingExcerpt": "The post asks alumni to participate and contribute memories."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-unam-somos-ayer-siempre"
+          ],
+          "supportingExcerpt": "A collective archive of alumni memories and identity."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-unam-somos-ayer-siempre"
+          ],
+          "supportingExcerpt": "Send photos to editorial.pveu@exalumno.unam.mx by July 28, 2025."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "posicionamiento",
+        "vida estudiantil"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-unam-somos-ayer-siempre"
+      ],
+      "sourceIds": [
+        "src-unam-somos-ayer-siempre"
+      ]
+    },
+    {
+      "id": "uam-quedate-2026",
+      "institution": "Universidad Autónoma Metropolitana",
+      "campaignTitle": "Quédate en la UAM",
+      "region": "mexico",
+      "country": "México",
+      "city": "Ciudad de México y unidades UAM",
+      "dateLabel": "2026; publicaciones de admisión 2026 localizadas",
+      "objetivo": "Invitar a aspirantes a iniciar admisión y vincular el ingreso con un futuro posible en la UAM.",
+      "publico": "Aspirantes a licenciatura; piezas oficiales dirigidas a aspirantes y estudiantes.",
+      "mensaje": "“Quédate en la UAM” / “Tu futuro comienza hoy”.",
+      "tono": "Interpretación: directo, alentador y de pertenencia.",
+      "concepto": "La elección universitaria se presenta como inicio de futuro y pertenencia metropolitana.",
+      "llamada_a_la_accion": "Consultar convocatoria oficial de admisión en admision.uam.mx.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-uam-quedate-2026"
+          ],
+          "supportingExcerpt": "Official UAM admissions social post uses “Quédate en la UAM” and directs viewers to the admissions call."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-uam-quedate-2026"
+          ],
+          "supportingExcerpt": "Prospective undergraduate students."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-uam-quedate-2026"
+          ],
+          "supportingExcerpt": "“Quédate en la UAM”; “Tu futuro comienza aquí/hoy”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-uam-quedate-2026"
+          ],
+          "supportingExcerpt": "Short admissions videos use direct, encouraging language and institutional identity."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-uam-quedate-2026"
+          ],
+          "supportingExcerpt": "Belonging to the UAM community is framed as a choice for one’s future."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-uam-quedate-2026"
+          ],
+          "supportingExcerpt": "Consult the official admissions call at admision.uam.mx."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "posicionamiento",
+        "vida estudiantil"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-uam-quedate-2026"
+      ],
+      "sourceIds": [
+        "src-uam-quedate-2026"
+      ]
+    },
+    {
+      "id": "tec-intervenir-futuro",
+      "institution": "Tecnológico de Monterrey",
+      "campaignTitle": "Intervenir el futuro",
+      "region": "mexico",
+      "country": "México",
+      "city": "Multicampus nacional",
+      "dateLabel": "Lanzamiento 2022; campaña multianual con meta 2025–2026",
+      "objetivo": "Convocar fondos y participación para iniciativas de talento académico, movilidad social, investigación/innovación y entorno/comunidad.",
+      "publico": "Comunidad Tec y sociedad en general: estudiantes, familias, docentes, egresados, colaboradores, empresas y fundaciones.",
+      "mensaje": "Intervenir el futuro; heredar un mejor mañana y transformar vidas/contribuir a la sociedad.",
+      "tono": "Interpretación: trascendente, colectivo y orientado a acción filantrópica.",
+      "concepto": "La institución integra causas y proyectos bajo una campaña comprensiva para invertir en educación/futuro.",
+      "llamada_a_la_accion": "Elegir una causa y donar/participar mediante el sitio de Filantropía o donar.tec.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-tec-intervenir-futuro"
+          ],
+          "supportingExcerpt": "The campaign seeks to involve Tec members and the general community in projects that strengthen the institution’s mission and contribute to society."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-tec-intervenir-futuro"
+          ],
+          "supportingExcerpt": "Students, parents, faculty, alumni, staff, leaders, friends, companies, foundations and wider community."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-tec-intervenir-futuro"
+          ],
+          "supportingExcerpt": "“Intervenir el futuro”; “heredar un mejor mañana a las futuras generaciones”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-tec-intervenir-futuro"
+          ],
+          "supportingExcerpt": "The Tec frames the campaign as a shared philanthropic effort and invites contribution."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-tec-intervenir-futuro"
+          ],
+          "supportingExcerpt": "A comprehensive campaign linking philanthropic action to a better future and social contribution."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-tec-intervenir-futuro"
+          ],
+          "supportingExcerpt": "Choose a cause and donate through the Tec philanthropy/donation sites."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "investigación",
+        "innovación",
+        "posicionamiento"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Dato verificado: existencia y contenido declarativo de la campaña según fuente institucional; impacto/resultados no medidos en esta ficha.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-tec-intervenir-futuro"
+      ],
+      "sourceIds": [
+        "src-tec-intervenir-futuro"
+      ]
+    },
+    {
+      "id": "ibero-puebla-cero-tolerancia",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Cero Tolerancia a la Violencia",
+      "region": "puebla-regional",
+      "country": "México",
+      "city": "San Andrés Cholula, Puebla",
+      "dateLabel": "2024",
+      "objetivo": "Favorecer un entorno universitario seguro y libre de violencias, y promover prevención, cultura de denuncia, intervención temprana e información.",
+      "publico": "Toda la comunidad universitaria; interés prioritario en quienes colaboran en sus áreas.",
+      "mensaje": "Cero tolerancia a la violencia; vida libre de violencia con ética del cuidado, perspectiva de género, interseccionalidad y derechos.",
+      "tono": "Interpretación: institucional, cuidadoso y orientado a prevención/acción.",
+      "concepto": "La prevención y respuesta temprana se comunican mediante recursos, materiales, eventos y vías de participación.",
+      "llamada_a_la_accion": "Conocer recursos/objetivos, participar en actividades y evaluar la campaña; acudir a cultura de denuncia.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-ibero-puebla-cero-tolerancia"
+          ],
+          "supportingExcerpt": "The campaign is intended to reinforce the right to a life free from violence through prevention of university violence."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-ibero-puebla-cero-tolerancia"
+          ],
+          "supportingExcerpt": "The entire university community, with priority interest in people working in its various areas."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-ibero-puebla-cero-tolerancia"
+          ],
+          "supportingExcerpt": "Cero tolerancia a la violencia; prevention, early intervention, reporting culture and care."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-ibero-puebla-cero-tolerancia"
+          ],
+          "supportingExcerpt": "The campaign adopts care ethics, gender perspective, intersectionality and university rights."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-ibero-puebla-cero-tolerancia"
+          ],
+          "supportingExcerpt": "A campaign combining educational resources, activities and reporting pathways."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-ibero-puebla-cero-tolerancia"
+          ],
+          "supportingExcerpt": "Join and participate; learn objectives/materials; attend activities and evaluate the campaign."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "bienestar",
+        "prevención"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Dato verificado: existencia y contenido declarativo de la campaña según fuente institucional; impacto/resultados no medidos en esta ficha.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-ibero-puebla-cero-tolerancia"
+      ],
+      "sourceIds": [
+        "src-ibero-puebla-cero-tolerancia"
+      ]
+    },
+    {
+      "id": "ibero-puebla-construimos-esperanza",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Campaña Universitaria 2025: Construimos Esperanza",
+      "region": "puebla-regional",
+      "country": "México",
+      "city": "San Andrés Cholula, Puebla",
+      "dateLabel": "2025",
+      "objetivo": "Invitar a reflexionar y actuar para hacer un mundo más justo y solidario, con dignidad, justicia y solidaridad en el centro.",
+      "publico": "Estudiantes, docentes y colaboradores; comunidad IBERO Puebla.",
+      "mensaje": "Construimos Esperanza; construir formas de vivir en comunidad y mejorar el mundo.",
+      "tono": "Interpretación: esperanzador, participativo, reflexivo y comunitario.",
+      "concepto": "La esperanza se formula como acción y resistencia; la campaña conecta tema con actividades y propuestas comunitarias.",
+      "llamada_a_la_accion": "Sumar una actividad a la campaña mediante el formulario y solicitar el logotipo institucional para su cartel.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-ibero-puebla-construimos-esperanza"
+          ],
+          "supportingExcerpt": "Campaign 2025 invites the community to reflect and act for a more just and solidarity-based world."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-ibero-puebla-construimos-esperanza"
+          ],
+          "supportingExcerpt": "Students, teachers and staff are invited to take part with ideas and actions."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-ibero-puebla-construimos-esperanza"
+          ],
+          "supportingExcerpt": "“Construimos Esperanza”; act toward a more just and solidarity-based world."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-ibero-puebla-construimos-esperanza"
+          ],
+          "supportingExcerpt": "The campaign urges creative and responsible action and centres dignity, justice and solidarity."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-ibero-puebla-construimos-esperanza"
+          ],
+          "supportingExcerpt": "Hope is framed as action and community-building rather than a passive wish."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-ibero-puebla-construimos-esperanza"
+          ],
+          "supportingExcerpt": "Submit an activity through the campaign form; request the campaign logo from institutional communications."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "cultura",
+        "vida estudiantil"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Dato verificado: existencia y contenido declarativo de la campaña según fuente institucional; impacto/resultados no medidos en esta ficha.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-ibero-puebla-construimos-esperanza"
+      ],
+      "sourceIds": [
+        "src-ibero-puebla-construimos-esperanza"
+      ]
+    },
+    {
+      "id": "ibero-puebla-reconocernos",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Campaña Universitaria 2026: Reconocernos, mirarnos cara a cara",
+      "region": "puebla-regional",
+      "country": "México",
+      "city": "San Andrés Cholula, Puebla",
+      "dateLabel": "2026",
+      "objetivo": "Invitar a estudiantes, docentes y colaboradores a proponer acciones para fortalecer la comunidad y generar impacto dentro y fuera de la universidad.",
+      "publico": "Estudiantes, docentes y colaboradores de la comunidad IBERO Puebla.",
+      "mensaje": "Reconocernos: mirarnos cara a cara.",
+      "tono": "Interpretación: próximo, reflexivo y centrado en el encuentro.",
+      "concepto": "El reconocimiento mutuo se convierte en actividades de convivencia, diálogo, creatividad y acción colectiva.",
+      "llamada_a_la_accion": "Participar en actividades universitarias y proponer acciones para la campaña (CTA general de la iniciativa).",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-ibero-puebla-reconocernos"
+          ],
+          "supportingExcerpt": "The 2026 campaign is presented under the motto “Reconocernos: mirarnos cara a cara” and focuses on community activities."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-ibero-puebla-reconocernos"
+          ],
+          "supportingExcerpt": "Students, teachers and collaborators of IBERO Puebla."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-ibero-puebla-reconocernos"
+          ],
+          "supportingExcerpt": "“Reconocernos: mirarnos cara a cara”."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-ibero-puebla-reconocernos"
+          ],
+          "supportingExcerpt": "The initiative invites ideas and actions for impact inside and outside the university."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-ibero-puebla-reconocernos"
+          ],
+          "supportingExcerpt": "Community-building through meeting, dialogue, creativity and collective activation."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-ibero-puebla-reconocernos"
+          ],
+          "supportingExcerpt": "Participate in campus activities and contribute ideas/actions."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "vida estudiantil",
+        "cultura"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Dato verificado: existencia y contenido declarativo de la campaña según fuente institucional; impacto/resultados no medidos en esta ficha.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-ibero-puebla-reconocernos"
+      ],
+      "sourceIds": [
+        "src-ibero-puebla-reconocernos"
+      ]
+    },
+    {
+      "id": "ibero-vivo-mis-derechos",
+      "institution": "IBERO Puebla",
+      "campaignTitle": "Vivo mis derechos universitarios",
+      "region": "puebla-regional",
+      "country": "México",
+      "city": "San Andrés Cholula, Puebla",
+      "dateLabel": "2025-05-26",
+      "objetivo": "Promover el reconocimiento y ejercicio de derechos universitarios a través de una experiencia inmersiva, interactiva y multiplataforma.",
+      "publico": "Personas que integran la comunidad universitaria IBERO Puebla.",
+      "mensaje": "Vivo mis derechos universitarios; cada integrante posee derechos y cuenta con un espacio que le respalda.",
+      "tono": "Interpretación: claro, participativo y cuidadoso; traduce normativa a señalética accesible.",
+      "concepto": "Ilustraciones y códigos QR distribuidos en campus traducen derechos abstractos a elementos visuales y rutas de información.",
+      "llamada_a_la_accion": "Escanear los códigos QR para conocer derechos y recursos de la Defensoría Universitaria.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-ibero-vivo-mis-derechos"
+          ],
+          "supportingExcerpt": "The DDU campaign uses illustrations and QR codes around campus so community members can learn about their rights."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-ibero-vivo-mis-derechos"
+          ],
+          "supportingExcerpt": "People who belong to the IBERO Puebla university community."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-ibero-vivo-mis-derechos"
+          ],
+          "supportingExcerpt": "“Vivo mis derechos universitarios”; know your rights and feel supported."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-ibero-vivo-mis-derechos"
+          ],
+          "supportingExcerpt": "The students describe clear, accessible signage placed in key spaces."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-ibero-vivo-mis-derechos"
+          ],
+          "supportingExcerpt": "Translate university rights from abstract regulations into visual signs and QR-linked content."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-ibero-vivo-mis-derechos"
+          ],
+          "supportingExcerpt": "Scan QR codes to learn more about rights and available support."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "bienestar",
+        "derechos universitarios"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Dato verificado: existencia y contenido declarativo de la campaña según fuente institucional; impacto/resultados no medidos en esta ficha.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-ibero-vivo-mis-derechos"
+      ],
+      "sourceIds": [
+        "src-ibero-vivo-mis-derechos"
+      ]
+    },
+    {
+      "id": "tdo-back-to-school-2021",
+      "institution": "Universidad Tec de Oriente (TDO)",
+      "campaignTitle": "Campaña Back to School — inscripciones Otoño 2021",
+      "region": "puebla-regional",
+      "country": "México",
+      "city": "Puebla",
+      "dateLabel": "Otoño 2021; pauta Julio–Agosto",
+      "objetivo": "Reorientar la propuesta de valor y comunicación para diferenciar a TDO en el mercado poblano y presentar educación accesible que apoye aspiraciones profesionales.",
+      "publico": "Grupos objetivo de aspirantes identificados por la universidad; segmentación específica no descrita en la página.",
+      "mensaje": "Llevar los sueños profesionales a otro nivel; nivel académico accesible y posibilidad de trascender/autorrealizarse.",
+      "tono": "Interpretación: motivacional y pragmático, con acento en accesibilidad y futuro profesional.",
+      "concepto": "La oferta se reposiciona desde aspiración profesional y flexibilidad, no solo desde cursos.",
+      "llamada_a_la_accion": "La campaña se orienta a inscripciones del periodo de otoño; CTA explícito en arte no transcrito en caso.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-tdo-back-to-school-2021"
+          ],
+          "supportingExcerpt": "TDO sought actions to better orient its offer to target groups and differentiate itself in Puebla’s competitive market."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-tdo-back-to-school-2021"
+          ],
+          "supportingExcerpt": "Different target groups / prospective student segments; demographics not specified."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-tdo-back-to-school-2021"
+          ],
+          "supportingExcerpt": "Take professional dreams to another level; accessible high academic level."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-tdo-back-to-school-2021"
+          ],
+          "supportingExcerpt": "The case frames the value proposition around transcendence and self-fulfilment."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-tdo-back-to-school-2021"
+          ],
+          "supportingExcerpt": "Reorient value proposition and communication around affordable/flexible study and professional aspirations."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-tdo-back-to-school-2021"
+          ],
+          "supportingExcerpt": "Back-to-school enrollment campaign for Autumn 2021; exact creative CTA not transcribed."
+        }
+      },
+      "campaignType": [
+        "admisión",
+        "empleabilidad",
+        "posicionamiento"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Resultado no verificable: la(s) fuente(s) confirman la campaña y su contenido, pero no proporcionan evaluación independiente suficiente de resultados atribuibles.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-tdo-back-to-school-2021"
+      ],
+      "sourceIds": [
+        "src-tdo-back-to-school-2021"
+      ]
+    },
+    {
+      "id": "udlap-power-of-youth",
+      "institution": "Universidad de las Américas Puebla (UDLAP)",
+      "campaignTitle": "Power Of Youth",
+      "region": "puebla-regional",
+      "country": "México",
+      "city": "San Andrés Cholula, Puebla",
+      "dateLabel": "Fundada en mayo de 2016; nota publicada 2016-12-08",
+      "objetivo": "Impulsar talentos, habilidades e ideas de jóvenes y vincular su desarrollo con proyectos ambientales, sociales, empresariales, económicos y políticos.",
+      "publico": "Jóvenes mexicanos y extranjeros de educación media superior y superior.",
+      "mensaje": "No importa qué estudiaste: los jóvenes pueden realizarse y desarrollar ideas/proyectos con impacto sostenible.",
+      "tono": "Interpretación: juvenil, emprendedor y orientado a acción social.",
+      "concepto": "Campaña creada por estudiantes como puente entre desarrollo de aptitudes, intercambio y apoyo a comunidades.",
+      "llamada_a_la_accion": "Participar en conferencias, mesas de debate y actividades comunitarias; convocatoria concreta no indicada en la nota.",
+      "evidencia_por_campo": {
+        "objetivo": {
+          "sourceIds": [
+            "src-udlap-power-of-youth"
+          ],
+          "supportingExcerpt": "The UDLAP article confirms a student-created campaign called Power Of Youth to develop young people’s abilities across social, environmental and other sectors."
+        },
+        "publico": {
+          "sourceIds": [
+            "src-udlap-power-of-youth"
+          ],
+          "supportingExcerpt": "Young Mexican and international people in upper-secondary and higher education."
+        },
+        "mensaje": {
+          "sourceIds": [
+            "src-udlap-power-of-youth"
+          ],
+          "supportingExcerpt": "The campaign aims to show young people what they can do regardless of what they studied."
+        },
+        "tono": {
+          "sourceIds": [
+            "src-udlap-power-of-youth"
+          ],
+          "supportingExcerpt": "Student founders describe the project as youth-created and focused on developing talent."
+        },
+        "concepto": {
+          "sourceIds": [
+            "src-udlap-power-of-youth"
+          ],
+          "supportingExcerpt": "A student-led campaign links talks/debates with community support and practical action."
+        },
+        "llamada_a_la_accion": {
+          "sourceIds": [
+            "src-udlap-power-of-youth"
+          ],
+          "supportingExcerpt": "Attend conferences/debates and community activities; no single CTA is stated."
+        }
+      },
+      "campaignType": [
+        "comunidad",
+        "innovación",
+        "vida estudiantil"
+      ],
+      "evidenceStatus": "verified",
+      "resultSummary": "Dato verificado: existencia y contenido declarativo de la campaña según fuente institucional; impacto/resultados no medidos en esta ficha.",
+      "limitations": [
+        "Interpretaciones de tono/concepto se identifican como lectura editorial basada en la fuente, no como cita literal.",
+        "No se reutiliza material visual; las imágenes/medios permanecen enlazados y no autorizados.",
+        "Los resultados declarados por proveedor/institución no se interpretan como causalidad independiente."
+      ],
+      "pieceIds": [
+        "piece-udlap-power-of-youth"
+      ],
+      "sourceIds": [
+        "src-udlap-power-of-youth"
+      ]
+    }
+  ],
+  "pieces": [
+    {
+      "id": "piece-durham-undergraduate-2024-be-you",
+      "campaignId": "durham-undergraduate-2024-be-you",
+      "title": "Undergraduate Campaign 2024 — Be extraordinary. Be you.",
+      "format": "gráfica / social / prospecto / caso",
+      "discipline": "cross-disciplinary",
+      "channel": "Publicidad digital, prospectos, brochures, open days y stands de exposición.",
+      "visualObservation": "Fotografía de estudiantes en biblioteca, campus, grupos y laboratorio; imagen enmarcada sobre fondo blanco, texto negro que pasa a blanco sobre imagen y fragmentos del tapestry Durham.",
+      "analysis": {
+        "message": "Be extraordinary. Be you.; variantes: be inspired, be passionate, be pioneering.",
+        "audience": "Aspirantes ambiciosos de diversos orígenes que buscan pertenencia y desafío.",
+        "style": "Fotografía estudiantil",
+        "typography": "blanco/negro y tapestry institucional",
+        "color": "jerarquía de titulares y mensajes variables",
+        "photographyOrIllustration": "Fotografía de estudiantes en biblioteca, campus, grupos y laboratorio; imagen enmarcada sobre fondo blanco, texto negro que pasa a blanco sobre imagen y fragmentos del tapestry Durham.",
+        "composition": "Fotografía de estudiantes en biblioteca, campus, grupos y laboratorio; imagen enmarcada sobre fondo blanco, texto negro que pasa a blanco sobre imagen y fragmentos del tapestry Durham.",
+        "pieceSystem": "Fotografía estudiantil; blanco/negro y tapestry institucional; jerarquía de titulares y mensajes variables; sistema adaptable a impresión y digital.",
+        "callToAction": "Explorar la experiencia de Durham mediante la invitación Be extraordinary. Be you.; CTA transaccional no descrito.",
+        "channelFit": "Publicidad digital, prospectos, brochures, open days y stands de exposición.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-durham-undergraduate-2024-be-you"
+      ],
+      "credit": {
+        "brand": "Durham University",
+        "creatorOrAgency": "Morton Ward",
+        "workTitle": "Undergraduate Campaign 2024 — Be extraordinary. Be you.",
+        "url": "https://www.mortonward.co.uk/project/undergraduate-campaign-2024/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-qmul-recruitment-campaign",
+      "campaignId": "qmul-recruitment-campaign",
+      "title": "Student recruitment campaign — Learning that inspires",
+      "format": "gráfica / animación / social / OOH / prospecto",
+      "discipline": "cross-disciplinary",
+      "channel": "Autobuses, billboards, display, social, native content, website y materiales impresos.",
+      "visualObservation": "Fotografías de estudiantes sobre fondos cromáticos vivos, azul institucional, tipografía grande y contraste deliberado; la agencia documenta más de 50 artworks/animations y toolkit.",
+      "analysis": {
+        "message": "Learning that inspires; la campaña muestra diversidad de pensamiento e ideas.",
+        "audience": "Aspirantes con buen rendimiento académico; familias, docentes y personas influyentes.",
+        "style": "Fotografía documental de alumnado",
+        "typography": "QMUL blue y pares de color",
+        "color": "titulares sans bold",
+        "photographyOrIllustration": "Fotografías de estudiantes sobre fondos cromáticos vivos, azul institucional, tipografía grande y contraste deliberado; la agencia documenta más de 50 artworks/animations y toolkit.",
+        "composition": "Fotografías de estudiantes sobre fondos cromáticos vivos, azul institucional, tipografía grande y contraste deliberado; la agencia documenta más de 50 artworks/animations y toolkit.",
+        "pieceSystem": "Fotografía documental de alumnado; QMUL blue y pares de color; titulares sans bold; sistema de más de 50 aplicaciones y animaciones; CTA a open day/UCAS.",
+        "callToAction": "Invitación a conocer/open day y presentar solicitud UCAS; CTA aparece asociado a jornadas y fecha UCAS.",
+        "channelFit": "Autobuses, billboards, display, social, native content, website y materiales impresos.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-qmul-recruitment-campaign"
+      ],
+      "credit": {
+        "brand": "Queen Mary University of London",
+        "creatorOrAgency": "IE Brand",
+        "workTitle": "Student recruitment campaign — Learning that inspires",
+        "url": "https://www.ie.co.uk/work/queen-mary-university-london",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-goldsmiths-one-goldsmiths",
+      "campaignId": "goldsmiths-one-goldsmiths",
+      "title": "One Goldsmiths — recruitment campaign identity",
+      "format": "identidad / gráfica / fotografía / video / motion / exposición",
+      "discipline": "cross-disciplinary",
+      "channel": "Impresos, campaña de marca, video 4K, motion y kits para exposiciones.",
+      "visualObservation": "El caso documenta tipografía ecléctica, fotografías de reportaje en campus, video 4K y un sistema de campaña con toolkit; revisión visual directa de assets sujeta a derechos.",
+      "analysis": {
+        "message": "One Goldsmiths: eclecticism, individuality and diversity at the heart of the solution.",
+        "audience": "Aspirantes a disciplinas creativas, humanidades, ciencias sociales, computación y negocios.",
+        "style": "Mezcla tipográfica controlada y reportaje humano",
+        "typography": "color/familias exactas no especificados en el texto del caso",
+        "color": "toolkit y voz ayudan a sostener expansión por canales.",
+        "photographyOrIllustration": "El caso documenta tipografía ecléctica, fotografías de reportaje en campus, video 4K y un sistema de campaña con toolkit; revisión visual directa de assets sujeta a derechos.",
+        "composition": "El caso documenta tipografía ecléctica, fotografías de reportaje en campus, video 4K y un sistema de campaña con toolkit; revisión visual directa de assets sujeta a derechos.",
+        "pieceSystem": "Mezcla tipográfica controlada y reportaje humano; color/familias exactas no especificados en el texto del caso; toolkit y voz ayudan a sostener expansión por canales.",
+        "callToAction": "No se localizó CTA único; la campaña orienta a explorar la oferta y estudiar en Goldsmiths.",
+        "channelFit": "Impresos, campaña de marca, video 4K, motion y kits para exposiciones.",
+        "interaction": "Interacción no descrita por la fuente.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-goldsmiths-one-goldsmiths"
+      ],
+      "credit": {
+        "brand": "Goldsmiths, University of London",
+        "creatorOrAgency": "Baxter & Bailey",
+        "workTitle": "One Goldsmiths — recruitment campaign identity",
+        "url": "https://baxterandbailey.co.uk/work/goldsmiths-university-of-london/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-soas-connected-world",
+      "campaignId": "soas-connected-world",
+      "title": "Interconnected campaign — Until you understand the connections…",
+      "format": "identidad / gráfica / digital / instalación / motion / video",
+      "discipline": "cross-disciplinary",
+      "channel": "Digital, impresos, campañas, ambientación/instalaciones y video/motion.",
+      "visualObservation": "El sistema reutiliza identidad existente y conexiones como idea organizadora; el caso muestra varios materiales, pero no describe una paleta ni tipografía específicas en texto.",
+      "analysis": {
+        "message": "Until you understand the connections, you’ll never change the world.",
+        "audience": "Aspirantes de alto potencial; estudiantes interesados en asuntos globales y ciudadanía activa.",
+        "style": "Lenguaje editorial conceptual basado en conexiones",
+        "typography": "preservar legibilidad al traducir ideas complejas",
+        "color": "sistema y toolkit multicanal.",
+        "photographyOrIllustration": "El sistema reutiliza identidad existente y conexiones como idea organizadora; el caso muestra varios materiales, pero no describe una paleta ni tipografía específicas en texto.",
+        "composition": "El sistema reutiliza identidad existente y conexiones como idea organizadora; el caso muestra varios materiales, pero no describe una paleta ni tipografía específicas en texto.",
+        "pieceSystem": "Lenguaje editorial conceptual basado en conexiones; preservar legibilidad al traducir ideas complejas; sistema y toolkit multicanal.",
+        "callToAction": "La frase lema invita a comprender las conexiones y cambiar el mundo; CTA de solicitud concreta no localizado.",
+        "channelFit": "Digital, impresos, campañas, ambientación/instalaciones y video/motion.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-soas-connected-world"
+      ],
+      "credit": {
+        "brand": "SOAS University of London",
+        "creatorOrAgency": "Baxter & Bailey",
+        "workTitle": "Interconnected campaign — Until you understand the connections…",
+        "url": "https://baxterandbailey.co.uk/work/soas-university-of-london/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-northampton-find-you",
+      "campaignId": "northampton-find-you",
+      "title": "Find You — student recruitment campaign",
+      "format": "gráfica / video / radio / OOH / social / email / prospecto",
+      "discipline": "cross-disciplinary",
+      "channel": "TV, radio, outdoor, digital/social, collateral de open days, direct mail y prospecto.",
+      "visualObservation": "La agencia describe shooting planificado, selección de talento/voz/música y un messaging house para distintos escenarios; se documentan cifras de clicks/views/impressions atribuidas por proveedor.",
+      "analysis": {
+        "message": "Find You.",
+        "audience": "Aspirantes y sus familias/cuidadores/docentes, con mensajes ajustados a cada papel de decisión.",
+        "style": "Mensajes adaptados a distintos decisores",
+        "typography": "ejecución consistente entre video, radio, OOH, redes y prospecto.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "La agencia describe shooting planificado, selección de talento/voz/música y un messaging house para distintos escenarios; se documentan cifras de clicks/views/impressions atribuidas por proveedor.",
+        "composition": "La agencia describe shooting planificado, selección de talento/voz/música y un messaging house para distintos escenarios; se documentan cifras de clicks/views/impressions atribuidas por proveedor.",
+        "pieceSystem": "Mensajes adaptados a distintos decisores; ejecución consistente entre video, radio, OOH, redes y prospecto.",
+        "callToAction": "La campaña dirige a sitio y canales de admisión; la fuente describe clicks al sitio, no CTA textual uniforme.",
+        "channelFit": "TV, radio, outdoor, digital/social, collateral de open days, direct mail y prospecto.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-northampton-find-you"
+      ],
+      "credit": {
+        "brand": "University of Northampton",
+        "creatorOrAgency": "Rock Kitchen Harris (RKH)",
+        "workTitle": "Find You — student recruitment campaign",
+        "url": "https://www.rkh.co.uk/case-studies/a-fresh-approach-to-student-recruitment/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-ual-because-world-needs-creativity",
+      "campaignId": "ual-because-world-needs-creativity",
+      "title": "Because the world needs creativity",
+      "format": "campaña gráfica / prospecto / fotografía / video",
+      "discipline": "cross-disciplinary",
+      "channel": "Prospectos, campañas internacionales, colección de cubiertas y fotografía.",
+      "visualObservation": "El sistema usa dos cuadrados del colon UAL como marco de portafolios; 200 cubiertas únicas de prospecto y fotografía documental de estudiantes.",
+      "analysis": {
+        "message": "Because the world needs creativity.",
+        "audience": "Aspirantes a formación creativa internacional; estudiantes potenciales de los seis colleges.",
+        "style": "Convertir trabajo real del público universitario en contenido central y modular",
+        "typography": "dar reconocimiento individual dentro de una plataforma común.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "El sistema usa dos cuadrados del colon UAL como marco de portafolios; 200 cubiertas únicas de prospecto y fotografía documental de estudiantes.",
+        "composition": "El sistema usa dos cuadrados del colon UAL como marco de portafolios; 200 cubiertas únicas de prospecto y fotografía documental de estudiantes.",
+        "pieceSystem": "Convertir trabajo real del público universitario en contenido central y modular; dar reconocimiento individual dentro de una plataforma común.",
+        "callToAction": "La frase Because the world needs creativity funciona como invitación de marca; CTA de solicitud no especificado.",
+        "channelFit": "Prospectos, campañas internacionales, colección de cubiertas y fotografía.",
+        "interaction": "Interacción no descrita por la fuente.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-ual-because-world-needs-creativity"
+      ],
+      "credit": {
+        "brand": "University of the Arts London",
+        "creatorOrAgency": "Williamson Curran / Chris Curran",
+        "workTitle": "Because the world needs creativity",
+        "url": "https://www.chriscurran.me/case-studies/ual",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-anahuac-global-management",
+      "campaignId": "anahuac-global-management",
+      "title": "Global Leaders / Global Management",
+      "format": "gráfica / digital / OOH",
+      "discipline": "graphic",
+      "channel": "Marketing inbound digital y medios tradicionales urbanos.",
+      "visualObservation": "La agencia publica piezas gráficas de campaña, composición con titular protagonista y elementos equilibrados según manual de marca; aplicación urbana y digital.",
+      "analysis": {
+        "message": "Global Management; líderes globales capaces de dirigir empresas y proyectos internacionales (promesa funcional descrita).",
+        "audience": "Estudiantes de México y otros países interesados en empresas/proyectos internacionales.",
+        "style": "Mensaje principal y sistema de apoyos",
+        "typography": "modularidad digital/OOH, jerarquía cromática coherente con manual.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "La agencia publica piezas gráficas de campaña, composición con titular protagonista y elementos equilibrados según manual de marca; aplicación urbana y digital.",
+        "composition": "La agencia publica piezas gráficas de campaña, composición con titular protagonista y elementos equilibrados según manual de marca; aplicación urbana y digital.",
+        "pieceSystem": "Mensaje principal y sistema de apoyos; modularidad digital/OOH, jerarquía cromática coherente con manual.",
+        "callToAction": "Consultar la nueva licenciatura Global Management; el caso enlaza a la ficha del programa.",
+        "channelFit": "Marketing inbound digital y medios tradicionales urbanos.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-anahuac-global-management"
+      ],
+      "credit": {
+        "brand": "Universidad Anáhuac México",
+        "creatorOrAgency": "HINT Agencia de Inbound Marketing",
+        "workTitle": "Global Leaders / Global Management",
+        "url": "https://www.hint.mx/blog/campana-creativa-global-leaders-universidad-anahuac-mexico",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-aliat-claro-que-puedo",
+      "campaignId": "aliat-claro-que-puedo",
+      "title": "Claro que Puedo",
+      "format": "video / campaña de marca / digital",
+      "discipline": "audiovisual",
+      "channel": "Pieza audiovisual y difusión de marca; artículo cita al directivo responsable.",
+      "visualObservation": "El artículo describe un joven dibujado como boceto y otros personajes que representan aquello en que pueden convertirse; el concepto se adapta con visuales cambiantes.",
+      "analysis": {
+        "message": "Claro que Puedo; “eres un boceto y vas construyendo tu persona” según el directivo entrevistado.",
+        "audience": "Jóvenes estudiantes de las universidades Aliat; el vocero declara que se enfocaron en realidad cotidiana y aprendizaje.",
+        "style": "Metáfora visual fácil de leer que traduce proceso de formación",
+        "typography": "lenguaje de apoyo y progreso personal.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "El artículo describe un joven dibujado como boceto y otros personajes que representan aquello en que pueden convertirse; el concepto se adapta con visuales cambiantes.",
+        "composition": "El artículo describe un joven dibujado como boceto y otros personajes que representan aquello en que pueden convertirse; el concepto se adapta con visuales cambiantes.",
+        "pieceSystem": "Metáfora visual fácil de leer que traduce proceso de formación; lenguaje de apoyo y progreso personal.",
+        "callToAction": "Claro que Puedo / conocer planes y modalidades (CTA editorial al sitio enlazado).",
+        "channelFit": "Pieza audiovisual y difusión de marca; artículo cita al directivo responsable.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-aliat-claro-que-puedo"
+      ],
+      "credit": {
+        "brand": "Aliat Universidades",
+        "creatorOrAgency": "Merca2.0; entrevista/colaboración con Ramón Murguía, Aliat",
+        "workTitle": "Claro que Puedo",
+        "url": "https://www.merca20.com/claro-que-puedo-una-campana-que-entiende-la-realidad-universitaria/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-anahuac-mayab-dale-play",
+      "campaignId": "anahuac-mayab-dale-play",
+      "title": "Dale play a tu siguiente nivel",
+      "format": "landing / gráfica / digital / social",
+      "discipline": "cross-disciplinary",
+      "channel": "Landing page, redes y aplicaciones publicitarias multicanal.",
+      "visualObservation": "La agencia presenta imágenes, sistema tipográfico, paleta, fotografía y una landing animada; la distinción Anuaria confirma reconocimiento de diseño de landing.",
+      "analysis": {
+        "message": "Dale play a tu siguiente nivel; “dar el siguiente paso en tu profesión”.",
+        "audience": "Profesionales con aspiraciones de avanzar en su carrera y usuarios de posgrado/educación continua.",
+        "style": "Un verbo accionable (“play”) enlaza narrativa digital con progresión profesional",
+        "typography": "identidad visual y pieza web comparten concepto.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "La agencia presenta imágenes, sistema tipográfico, paleta, fotografía y una landing animada; la distinción Anuaria confirma reconocimiento de diseño de landing.",
+        "composition": "La agencia presenta imágenes, sistema tipográfico, paleta, fotografía y una landing animada; la distinción Anuaria confirma reconocimiento de diseño de landing.",
+        "pieceSystem": "Un verbo accionable (“play”) enlaza narrativa digital con progresión profesional; identidad visual y pieza web comparten concepto.",
+        "callToAction": "Dale play a tu siguiente nivel (CTA conceptual); iniciar exploración de oferta profesional.",
+        "channelFit": "Landing page, redes y aplicaciones publicitarias multicanal.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-anahuac-mayab-dale-play"
+      ],
+      "credit": {
+        "brand": "Universidad Anáhuac Mayab",
+        "creatorOrAgency": "Mantra México; reconocimiento contextualizado también por Veredictas",
+        "workTitle": "Dale play a tu siguiente nivel",
+        "url": "https://mantra.mx/es/branding/66/universidad-anahuac-merida",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-unam-somos-ayer-siempre",
+      "campaignId": "unam-somos-ayer-siempre",
+      "title": "Somos UNAM, ayer y siempre",
+      "format": "video / social / participación",
+      "discipline": "audiovisual",
+      "channel": "Facebook/Instagram video and alumni contribution call.",
+      "visualObservation": "Pieza audiovisual/social oficial con apelación directa a egresados, fotografía de archivo y firma institucional; no se infiere un sistema de campaña más amplio del post individual.",
+      "analysis": {
+        "message": "Somos UNAM, ayer y siempre; “comparte recuerdos, construyamos memoria”.",
+        "audience": "Egresadas y egresados de la UNAM.",
+        "style": "UGC con propósito y CTA concreto permite que la audiencia aporte material propio y memoria.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Pieza audiovisual/social oficial con apelación directa a egresados, fotografía de archivo y firma institucional; no se infiere un sistema de campaña más amplio del post individual.",
+        "composition": "Pieza audiovisual/social oficial con apelación directa a egresados, fotografía de archivo y firma institucional; no se infiere un sistema de campaña más amplio del post individual.",
+        "pieceSystem": "UGC con propósito y CTA concreto permite que la audiencia aporte material propio y memoria.",
+        "callToAction": "Enviar fotografías al correo indicado antes del cierre de convocatoria.",
+        "channelFit": "Facebook/Instagram video and alumni contribution call.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-unam-somos-ayer-siempre"
+      ],
+      "credit": {
+        "brand": "Universidad Nacional Autónoma de México",
+        "creatorOrAgency": "UNAM MX Oficial",
+        "workTitle": "Somos UNAM, ayer y siempre",
+        "url": "https://www.facebook.com/UNAM.MX.Oficial/videos/eres-egresada-o-egresado-de-la-unam/1804442453825325/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-uam-quedate-2026",
+      "campaignId": "uam-quedate-2026",
+      "title": "Quédate en la UAM",
+      "format": "reel / video social / admisión",
+      "discipline": "audiovisual",
+      "channel": "Instagram Reels, TikTok and official unit social channels.",
+      "visualObservation": "Video vertical de admisión con estudiantes/vida académica según piezas oficiales y lema repetible; la ficha conserva solo el post vigente localizado, no infiere un manual de campaña.",
+      "analysis": {
+        "message": "“Quédate en la UAM” / “Tu futuro comienza hoy”.",
+        "audience": "Aspirantes a licenciatura; piezas oficiales dirigidas a aspirantes y estudiantes.",
+        "style": "Un CTA institucional breve y repetible en materiales audiovisuales de ciclo de admisión.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Video vertical de admisión con estudiantes/vida académica según piezas oficiales y lema repetible; la ficha conserva solo el post vigente localizado, no infiere un manual de campaña.",
+        "composition": "Video vertical de admisión con estudiantes/vida académica según piezas oficiales y lema repetible; la ficha conserva solo el post vigente localizado, no infiere un manual de campaña.",
+        "pieceSystem": "Un CTA institucional breve y repetible en materiales audiovisuales de ciclo de admisión.",
+        "callToAction": "Consultar convocatoria oficial de admisión en admision.uam.mx.",
+        "channelFit": "Instagram Reels, TikTok and official unit social channels.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-uam-quedate-2026"
+      ],
+      "credit": {
+        "brand": "Universidad Autónoma Metropolitana",
+        "creatorOrAgency": "Admisión UAM (cuenta institucional)",
+        "workTitle": "Quédate en la UAM",
+        "url": "https://www.instagram.com/reel/DeNpByTCvok/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-tec-intervenir-futuro",
+      "campaignId": "tec-intervenir-futuro",
+      "title": "Intervenir el futuro",
+      "format": "campaña institucional / digital / audiovisual",
+      "discipline": "cross-disciplinary",
+      "channel": "Portal de Filantropía, historias, fotos y redes; varios ejes de apoyo.",
+      "visualObservation": "La nota institucional muestra fotografía de comunidad, becarios, investigación y espacios; sistema narrativo reúne causas bajo una promesa temporal compartida.",
+      "analysis": {
+        "message": "Intervenir el futuro; heredar un mejor mañana y transformar vidas/contribuir a la sociedad.",
+        "audience": "Comunidad Tec y sociedad en general: estudiantes, familias, docentes, egresados, colaboradores, empresas y fundaciones.",
+        "style": "Conectar iniciativas heterogéneas con propósito central, opción concreta para elegir causa y CTA de participación.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "La nota institucional muestra fotografía de comunidad, becarios, investigación y espacios; sistema narrativo reúne causas bajo una promesa temporal compartida.",
+        "composition": "La nota institucional muestra fotografía de comunidad, becarios, investigación y espacios; sistema narrativo reúne causas bajo una promesa temporal compartida.",
+        "pieceSystem": "Conectar iniciativas heterogéneas con propósito central, opción concreta para elegir causa y CTA de participación.",
+        "callToAction": "Elegir una causa y donar/participar mediante el sitio de Filantropía o donar.tec.",
+        "channelFit": "Portal de Filantropía, historias, fotos y redes; varios ejes de apoyo.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-tec-intervenir-futuro"
+      ],
+      "credit": {
+        "brand": "Tecnológico de Monterrey",
+        "creatorOrAgency": "CONECTA / Tecnológico de Monterrey",
+        "workTitle": "Intervenir el futuro",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/institucion/5-aspectos-para-conocer-y-sumarse-la-mision-filantropica-del-tec",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-ibero-puebla-cero-tolerancia",
+      "campaignId": "ibero-puebla-cero-tolerancia",
+      "title": "Cero Tolerancia a la Violencia",
+      "format": "campaña gráfica / sitio / recursos / actividades",
+      "discipline": "cross-disciplinary",
+      "channel": "Landing dedicada, infografías, materiales, actividades presenciales y enlaces de denuncia/evaluación.",
+      "visualObservation": "Página oficial muestra fotos/ilustraciones, señalética y módulos de recursos; el sitio agrupa prevención, denuncia y participación bajo una identidad de campaña.",
+      "analysis": {
+        "message": "Cero tolerancia a la violencia; vida libre de violencia con ética del cuidado, perspectiva de género, interseccionalidad y derechos.",
+        "audience": "Toda la comunidad universitaria; interés prioritario en quienes colaboran en sus áreas.",
+        "style": "Contenido sensible tratado con recursos accesibles y caminos de acción",
+        "typography": "estructura web segmenta información y CTA útiles.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Página oficial muestra fotos/ilustraciones, señalética y módulos de recursos; el sitio agrupa prevención, denuncia y participación bajo una identidad de campaña.",
+        "composition": "Página oficial muestra fotos/ilustraciones, señalética y módulos de recursos; el sitio agrupa prevención, denuncia y participación bajo una identidad de campaña.",
+        "pieceSystem": "Contenido sensible tratado con recursos accesibles y caminos de acción; estructura web segmenta información y CTA útiles.",
+        "callToAction": "Conocer recursos/objetivos, participar en actividades y evaluar la campaña; acudir a cultura de denuncia.",
+        "channelFit": "Landing dedicada, infografías, materiales, actividades presenciales y enlaces de denuncia/evaluación.",
+        "interaction": "Interacción no descrita por la fuente.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-ibero-puebla-cero-tolerancia"
+      ],
+      "credit": {
+        "brand": "IBERO Puebla",
+        "creatorOrAgency": "IBERO Puebla; campaña institucional",
+        "workTitle": "Cero Tolerancia a la Violencia",
+        "url": "https://www.iberopuebla.mx/cero-tolerancia",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-ibero-puebla-construimos-esperanza",
+      "campaignId": "ibero-puebla-construimos-esperanza",
+      "title": "Campaña Universitaria 2025: Construimos Esperanza",
+      "format": "sitio / gráfica / video / activación",
+      "discipline": "cross-disciplinary",
+      "channel": "Sitio oficial, declaratoria, infografías, videos, actividades y carteles comunitarios.",
+      "visualObservation": "Landing estructurada por “qué es”, claves, voces y actividades; mezcla fotografía documental de campus con infografías y llamado a sumar acciones.",
+      "analysis": {
+        "message": "Construimos Esperanza; construir formas de vivir en comunidad y mejorar el mundo.",
+        "audience": "Estudiantes, docentes y colaboradores; comunidad IBERO Puebla.",
+        "style": "Una campaña temática puede habilitar participación distribuida si ofrece módulos, actividades y reglas de identidad.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Landing estructurada por “qué es”, claves, voces y actividades; mezcla fotografía documental de campus con infografías y llamado a sumar acciones.",
+        "composition": "Landing estructurada por “qué es”, claves, voces y actividades; mezcla fotografía documental de campus con infografías y llamado a sumar acciones.",
+        "pieceSystem": "Una campaña temática puede habilitar participación distribuida si ofrece módulos, actividades y reglas de identidad.",
+        "callToAction": "Sumar una actividad a la campaña mediante el formulario y solicitar el logotipo institucional para su cartel.",
+        "channelFit": "Sitio oficial, declaratoria, infografías, videos, actividades y carteles comunitarios.",
+        "interaction": "Interacción no descrita por la fuente.",
+        "motion": "Motion/video documentado en el caso."
+      },
+      "sourceIds": [
+        "src-ibero-puebla-construimos-esperanza"
+      ],
+      "credit": {
+        "brand": "IBERO Puebla",
+        "creatorOrAgency": "IBERO Puebla",
+        "workTitle": "Campaña Universitaria 2025: Construimos Esperanza",
+        "url": "https://repo.iberopuebla.mx/cu2025/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-ibero-puebla-reconocernos",
+      "campaignId": "ibero-puebla-reconocernos",
+      "title": "Campaña Universitaria 2026: Reconocernos, mirarnos cara a cara",
+      "format": "sitio / fotografía / activación",
+      "discipline": "cross-disciplinary",
+      "channel": "Micrositio institucional, jornadas interculturales, Día de Comunidad y orgullo.",
+      "visualObservation": "Micrositio con fotografía de eventos y descripciones breves; el tema se integra a jornadas y actividades participativas; campaña de ciclo vigente en el portal consultado.",
+      "analysis": {
+        "message": "Reconocernos: mirarnos cara a cara.",
+        "audience": "Estudiantes, docentes y colaboradores de la comunidad IBERO Puebla.",
+        "style": "Alinear la idea verbal con activaciones tangibles que permiten ver participación real.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Micrositio con fotografía de eventos y descripciones breves; el tema se integra a jornadas y actividades participativas; campaña de ciclo vigente en el portal consultado.",
+        "composition": "Micrositio con fotografía de eventos y descripciones breves; el tema se integra a jornadas y actividades participativas; campaña de ciclo vigente en el portal consultado.",
+        "pieceSystem": "Alinear la idea verbal con activaciones tangibles que permiten ver participación real.",
+        "callToAction": "Participar en actividades universitarias y proponer acciones para la campaña (CTA general de la iniciativa).",
+        "channelFit": "Micrositio institucional, jornadas interculturales, Día de Comunidad y orgullo.",
+        "interaction": "Interacción no descrita por la fuente.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-ibero-puebla-reconocernos"
+      ],
+      "credit": {
+        "brand": "IBERO Puebla",
+        "creatorOrAgency": "IBERO Puebla",
+        "workTitle": "Campaña Universitaria 2026: Reconocernos, mirarnos cara a cara",
+        "url": "https://repo.iberopuebla.mx/cu2026/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-ibero-vivo-mis-derechos",
+      "campaignId": "ibero-vivo-mis-derechos",
+      "title": "Vivo mis derechos universitarios",
+      "format": "campaña gráfica / señalética / QR / digital",
+      "discipline": "cross-disciplinary",
+      "channel": "Instalación inmersiva en campus con ilustraciones, códigos QR, notas y contenidos enlazados.",
+      "visualObservation": "Imágenes oficiales de señalética/ilustraciones en campus; lenguaje gráfico hecho por estudiantes de Diseño Gráfico y distribuido en ubicaciones clave.",
+      "analysis": {
+        "message": "Vivo mis derechos universitarios; cada integrante posee derechos y cuenta con un espacio que le respalda.",
+        "audience": "Personas que integran la comunidad universitaria IBERO Puebla.",
+        "style": "La traducción visual junto con QR vincula descubrimiento en espacio físico y explicación digital.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Imágenes oficiales de señalética/ilustraciones en campus; lenguaje gráfico hecho por estudiantes de Diseño Gráfico y distribuido en ubicaciones clave.",
+        "composition": "Imágenes oficiales de señalética/ilustraciones en campus; lenguaje gráfico hecho por estudiantes de Diseño Gráfico y distribuido en ubicaciones clave.",
+        "pieceSystem": "La traducción visual junto con QR vincula descubrimiento en espacio físico y explicación digital.",
+        "callToAction": "Escanear los códigos QR para conocer derechos y recursos de la Defensoría Universitaria.",
+        "channelFit": "Instalación inmersiva en campus con ilustraciones, códigos QR, notas y contenidos enlazados.",
+        "interaction": "QR/interacción digital documentada.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-ibero-vivo-mis-derechos"
+      ],
+      "credit": {
+        "brand": "IBERO Puebla",
+        "creatorOrAgency": "IBERO Puebla / Defensoría de Derechos Universitarios; diseño por cinco estudiantes",
+        "workTitle": "Vivo mis derechos universitarios",
+        "url": "https://www.iberopuebla.mx/noticias/derechos-universitarios",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-tdo-back-to-school-2021",
+      "campaignId": "tdo-back-to-school-2021",
+      "title": "Campaña Back to School — inscripciones Otoño 2021",
+      "format": "gráfica / social / landing",
+      "discipline": "cross-disciplinary",
+      "channel": "Campaña de back-to-school, anuncios y página de captación; la agencia exhibe creatividades y mockups.",
+      "visualObservation": "Caso de agencia muestra piezas digitales y mockup de pantalla; composición promocional centrada en marca/oferta y mensajes de aspiración, con aplicación a publicidad digital.",
+      "analysis": {
+        "message": "Llevar los sueños profesionales a otro nivel; nivel académico accesible y posibilidad de trascender/autorrealizarse.",
+        "audience": "Grupos objetivo de aspirantes identificados por la universidad; segmentación específica no descrita en la página.",
+        "style": "Conectar atributo de accesibilidad/flexibilidad con un beneficio de futuro, y evaluar resultados sin asumir causalidad.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "Caso de agencia muestra piezas digitales y mockup de pantalla; composición promocional centrada en marca/oferta y mensajes de aspiración, con aplicación a publicidad digital.",
+        "composition": "Caso de agencia muestra piezas digitales y mockup de pantalla; composición promocional centrada en marca/oferta y mensajes de aspiración, con aplicación a publicidad digital.",
+        "pieceSystem": "Conectar atributo de accesibilidad/flexibilidad con un beneficio de futuro, y evaluar resultados sin asumir causalidad.",
+        "callToAction": "La campaña se orienta a inscripciones del periodo de otoño; CTA explícito en arte no transcrito en caso.",
+        "channelFit": "Campaña de back-to-school, anuncios y página de captación; la agencia exhibe creatividades y mockups.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-tdo-back-to-school-2021"
+      ],
+      "credit": {
+        "brand": "Universidad Tec de Oriente (TDO)",
+        "creatorOrAgency": "Most Group",
+        "workTitle": "Campaña Back to School — inscripciones Otoño 2021",
+        "url": "https://mostgroup.mx/portfolio_page/tdo/",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    },
+    {
+      "id": "piece-udlap-power-of-youth",
+      "campaignId": "udlap-power-of-youth",
+      "title": "Power Of Youth",
+      "format": "campaña social / gráfica / activación / conferencias",
+      "discipline": "cross-disciplinary",
+      "channel": "Notas, imágenes de campaña, conferencias, mesas de debate, vinculación empresarial y apoyo comunitario.",
+      "visualObservation": "La nota oficial incluye imágenes identificadas como Power Of Youth y describe talleres/eventos; la estética completa y autoría de cada arte no se detallan.",
+      "analysis": {
+        "message": "No importa qué estudiaste: los jóvenes pueden realizarse y desarrollar ideas/proyectos con impacto sostenible.",
+        "audience": "Jóvenes mexicanos y extranjeros de educación media superior y superior.",
+        "style": "Iniciativa nacida de estudiantes puede comunicar agencia juvenil y activar aprendizaje/servicio con acciones tangibles.",
+        "typography": "La fuente no detalla familia tipográfica; se registra solo la descripción disponible.",
+        "color": "La fuente no detalla paleta completa.",
+        "photographyOrIllustration": "La nota oficial incluye imágenes identificadas como Power Of Youth y describe talleres/eventos; la estética completa y autoría de cada arte no se detallan.",
+        "composition": "La nota oficial incluye imágenes identificadas como Power Of Youth y describe talleres/eventos; la estética completa y autoría de cada arte no se detallan.",
+        "pieceSystem": "Iniciativa nacida de estudiantes puede comunicar agencia juvenil y activar aprendizaje/servicio con acciones tangibles.",
+        "callToAction": "Participar en conferencias, mesas de debate y actividades comunitarias; convocatoria concreta no indicada en la nota.",
+        "channelFit": "Notas, imágenes de campaña, conferencias, mesas de debate, vinculación empresarial y apoyo comunitario.",
+        "interaction": "Interacción propia del canal descrita; no se cuantifica.",
+        "motion": "Motion no localizado en fuente verificable."
+      },
+      "sourceIds": [
+        "src-udlap-power-of-youth"
+      ],
+      "credit": {
+        "brand": "Universidad de las Américas Puebla (UDLAP)",
+        "creatorOrAgency": "Blog UDLAP; campaña creada por estudiantes Jorge Arturo Vázquez Rojas y Mauricio Chávez Negrete",
+        "workTitle": "Power Of Youth",
+        "url": "https://blog.udlap.mx/blog/2016/12/08/estudiantesudlaprealizanpowerofyouth",
+        "useType": "Enlace de referencia; análisis editorial, sin reproducción de assets.",
+        "rightsStatus": "not-reusable",
+        "permissionEvidence": null,
+        "useNote": "No descargar, republicar ni incorporar imágenes, video, logotipos o capturas sin autorización expresa de sus titulares."
+      },
+      "media": null,
+      "altText": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-durham-undergraduate-2024-be-you",
+      "title": "Undergraduate Campaign 2024",
+      "authorOrganization": "Morton Ward",
+      "sourceType": "agencia",
+      "url": "https://www.mortonward.co.uk/project/undergraduate-campaign-2024/",
+      "publishedAt": null,
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-qmul-recruitment-campaign",
+      "title": "Queen Mary University of London — Learning that inspires",
+      "authorOrganization": "IE Brand",
+      "sourceType": "agencia",
+      "url": "https://www.ie.co.uk/work/queen-mary-university-london",
+      "publishedAt": null,
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-goldsmiths-one-goldsmiths",
+      "title": "One Goldsmiths",
+      "authorOrganization": "Baxter & Bailey",
+      "sourceType": "agencia",
+      "url": "https://baxterandbailey.co.uk/work/goldsmiths-university-of-london/",
+      "publishedAt": null,
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-soas-connected-world",
+      "title": "SOAS University of London — interconnected campaign",
+      "authorOrganization": "Baxter & Bailey",
+      "sourceType": "agencia",
+      "url": "https://baxterandbailey.co.uk/work/soas-university-of-london/",
+      "publishedAt": null,
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-northampton-find-you",
+      "title": "A fresh approach to student recruitment",
+      "authorOrganization": "Rock Kitchen Harris (RKH)",
+      "sourceType": "agencia",
+      "url": "https://www.rkh.co.uk/case-studies/a-fresh-approach-to-student-recruitment/",
+      "publishedAt": "2023-02-02",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-ual-because-world-needs-creativity",
+      "title": "University of the Arts London — recruitment campaign",
+      "authorOrganization": "Williamson Curran / Chris Curran",
+      "sourceType": "agencia",
+      "url": "https://www.chriscurran.me/case-studies/ual",
+      "publishedAt": "2026-09-01",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-anahuac-global-management",
+      "title": "Campaña Creativa: Global Leaders (Universidad Anáhuac México)",
+      "authorOrganization": "HINT Agencia de Inbound Marketing",
+      "sourceType": "agencia",
+      "url": "https://www.hint.mx/blog/campana-creativa-global-leaders-universidad-anahuac-mexico",
+      "publishedAt": "2022-06-14",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-aliat-claro-que-puedo",
+      "title": "¡Claro que puedo! Una campaña que entiende la realidad universitaria",
+      "authorOrganization": "Merca2.0; entrevista/colaboración con Ramón Murguía, Aliat",
+      "sourceType": "medio especializado",
+      "url": "https://www.merca20.com/claro-que-puedo-una-campana-que-entiende-la-realidad-universitaria/",
+      "publishedAt": "2019-08-06",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-anahuac-mayab-dale-play",
+      "title": "Universidad Anáhuac Mérida — Dale play a tu siguiente nivel",
+      "authorOrganization": "Mantra México; reconocimiento contextualizado también por Veredictas",
+      "sourceType": "agencia",
+      "url": "https://mantra.mx/es/branding/66/universidad-anahuac-merida",
+      "publishedAt": "2021",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-unam-somos-ayer-siempre",
+      "title": "Somos UNAM, ayer y siempre — convocatoria a egresados",
+      "authorOrganization": "UNAM MX Oficial",
+      "sourceType": "canal oficial de video",
+      "url": "https://www.facebook.com/UNAM.MX.Oficial/videos/eres-egresada-o-egresado-de-la-unam/1804442453825325/",
+      "publishedAt": "2025",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-uam-quedate-2026",
+      "title": "Quédate en la UAM — publicaciones de admisión 2026",
+      "authorOrganization": "Admisión UAM (cuenta institucional)",
+      "sourceType": "canal oficial de video",
+      "url": "https://www.instagram.com/reel/DeNpByTCvok/",
+      "publishedAt": "2026-10-07",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-tec-intervenir-futuro",
+      "title": "5 aspectos para conocer y sumarse a la misión filantrópica del Tec",
+      "authorOrganization": "CONECTA / Tecnológico de Monterrey",
+      "sourceType": "oficial universidad",
+      "url": "https://conecta.tec.mx/es/noticias/nacional/institucion/5-aspectos-para-conocer-y-sumarse-la-mision-filantropica-del-tec",
+      "publishedAt": "2022-12-02",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-ibero-puebla-cero-tolerancia",
+      "title": "Campaña Cero Tolerancia",
+      "authorOrganization": "IBERO Puebla; campaña institucional",
+      "sourceType": "oficial universidad",
+      "url": "https://www.iberopuebla.mx/cero-tolerancia",
+      "publishedAt": "2024",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-ibero-puebla-construimos-esperanza",
+      "title": "Campaña Universitaria 2025: Construimos Esperanza",
+      "authorOrganization": "IBERO Puebla",
+      "sourceType": "oficial universidad",
+      "url": "https://repo.iberopuebla.mx/cu2025/",
+      "publishedAt": "2025",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-ibero-puebla-reconocernos",
+      "title": "Campaña Universitaria 2026",
+      "authorOrganization": "IBERO Puebla",
+      "sourceType": "oficial universidad",
+      "url": "https://repo.iberopuebla.mx/cu2026/",
+      "publishedAt": "2026",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-ibero-vivo-mis-derechos",
+      "title": "Vivo mis derechos universitarios",
+      "authorOrganization": "IBERO Puebla / Defensoría de Derechos Universitarios; diseño por cinco estudiantes",
+      "sourceType": "oficial universidad",
+      "url": "https://www.iberopuebla.mx/noticias/derechos-universitarios",
+      "publishedAt": "2025-05-26",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-tdo-back-to-school-2021",
+      "title": "TDO — Campaña Back to School",
+      "authorOrganization": "Most Group",
+      "sourceType": "agencia",
+      "url": "https://mostgroup.mx/portfolio_page/tdo/",
+      "publishedAt": "2021",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    },
+    {
+      "id": "src-udlap-power-of-youth",
+      "title": "Estudiantes UDLAP realizan campaña Power Of Youth",
+      "authorOrganization": "Blog UDLAP; campaña creada por estudiantes Jorge Arturo Vázquez Rojas y Mauricio Chávez Negrete",
+      "sourceType": "oficial universidad",
+      "url": "https://blog.udlap.mx/blog/2016/12/08/estudiantesudlaprealizanpowerofyouth",
+      "publishedAt": "2016-12-08",
+      "consultedAt": "2026-10-21",
+      "accessStatus": "accessible",
+      "discrepancyNote": null,
+      "supports": [
+        "Existencia de campaña, objetivo, público, mensaje, concepto, CTA y/o características visuales según el excerpt asociado; no sostiene resultados independientes."
+      ]
+    }
+  ],
+  "trends": [],
+  "learnings": [
+    {
+      "id": "learn-durham-undergraduate-2024-be-you",
+      "principle": "Aprendizaje para UVP: Repetir la idea paraguas con variaciones que conecten con oportunidades específicas.",
+      "takeaway": "Repetir la idea paraguas con variaciones que conecten con oportunidades específicas.",
+      "avoidanceRisk": "No copiar slogan, tapestry ni fotografía; no afirmar mejora de admisiones sin datos independientes.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-durham-undergraduate-2024-be-you"
+      ],
+      "campaignIds": [
+        "durham-undergraduate-2024-be-you"
+      ]
+    },
+    {
+      "id": "learn-qmul-recruitment-campaign",
+      "principle": "Aprendizaje para UVP: Usar retratos auténticos y un lenguaje visual suficientemente modular para exterior y digital.",
+      "takeaway": "Usar retratos auténticos y un lenguaje visual suficientemente modular para exterior y digital.",
+      "avoidanceRisk": "No asumir alcance/impacto más allá de impresiones planeadas; representar diversidad con consentimiento y no como decorado.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-qmul-recruitment-campaign"
+      ],
+      "campaignIds": [
+        "qmul-recruitment-campaign"
+      ]
+    },
+    {
+      "id": "learn-goldsmiths-one-goldsmiths",
+      "principle": "Aprendizaje para UVP: Dar espacio a diferencias disciplinares dentro de reglas de marca consistentes.",
+      "takeaway": "Dar espacio a diferencias disciplinares dentro de reglas de marca consistentes.",
+      "avoidanceRisk": "No confundir la extensión de seis años o las métricas reportadas por agencia con eficacia causal independiente; no reproducir imágenes.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-goldsmiths-one-goldsmiths"
+      ],
+      "campaignIds": [
+        "goldsmiths-one-goldsmiths"
+      ]
+    },
+    {
+      "id": "learn-soas-connected-world",
+      "principle": "Aprendizaje para UVP: Convertir una característica intelectual de la institución en una plataforma consistente de mensajes.",
+      "takeaway": "Convertir una característica intelectual de la institución en una plataforma consistente de mensajes.",
+      "avoidanceRisk": "No presentar el aumento de aplicaciones reportado por agencia como causalidad independiente; evitar metáforas abstractas sin ejemplo concreto.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-soas-connected-world"
+      ],
+      "campaignIds": [
+        "soas-connected-world"
+      ]
+    },
+    {
+      "id": "learn-northampton-find-you",
+      "principle": "Aprendizaje para UVP: Investigar con distintos decisores y probar el mensaje antes de desplegarlo en una campaña multicanal.",
+      "takeaway": "Investigar con distintos decisores y probar el mensaje antes de desplegarlo en una campaña multicanal.",
+      "avoidanceRisk": "No generalizar las métricas sin contexto/periodo ni atribuir conversiones a un solo canal; no copiar el claim Find You.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-northampton-find-you"
+      ],
+      "campaignIds": [
+        "northampton-find-you"
+      ]
+    },
+    {
+      "id": "learn-ual-because-world-needs-creativity",
+      "principle": "Aprendizaje para UVP: Usar obra real del alumnado como contenido de campaña y diseñar un marco consistente para múltiples expresiones.",
+      "takeaway": "Usar obra real del alumnado como contenido de campaña y diseñar un marco consistente para múltiples expresiones.",
+      "avoidanceRisk": "Evitar exposición de trabajos/identidad sin consentimiento; no copiar el colon/cuadrados de UAL.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-ual-because-world-needs-creativity"
+      ],
+      "campaignIds": [
+        "ual-because-world-needs-creativity"
+      ]
+    },
+    {
+      "id": "learn-anahuac-global-management",
+      "principle": "Aprendizaje para UVP: Dar prioridad al mensaje central y asegurar que sobreviva al paso entre digital y medios urbanos.",
+      "takeaway": "Dar prioridad al mensaje central y asegurar que sobreviva al paso entre digital y medios urbanos.",
+      "avoidanceRisk": "No afirmar “único en México” sin comprobar vigencia; no hacer promesas de liderazgo laboral como resultado garantizado.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-anahuac-global-management"
+      ],
+      "campaignIds": [
+        "anahuac-global-management"
+      ]
+    },
+    {
+      "id": "learn-aliat-claro-que-puedo",
+      "principle": "Aprendizaje para UVP: Usar una metáfora visual para expresar un proceso formativo y acompañamiento, no solo una promesa distante.",
+      "takeaway": "Usar una metáfora visual para expresar un proceso formativo y acompañamiento, no solo una promesa distante.",
+      "avoidanceRisk": "El artículo es colaboración publicitaria; métricas de deserción/cifras citadas requieren verificación independiente y no se atribuye causalidad.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-aliat-claro-que-puedo"
+      ],
+      "campaignIds": [
+        "aliat-claro-que-puedo"
+      ]
+    },
+    {
+      "id": "learn-anahuac-mayab-dale-play",
+      "principle": "Aprendizaje para UVP: Conectar el verbo de campaña con la experiencia digital y un siguiente paso profesional explícito.",
+      "takeaway": "Conectar el verbo de campaña con la experiencia digital y un siguiente paso profesional explícito.",
+      "avoidanceRisk": "No prometer ascenso profesional/empleo como resultado garantizado; no reutilizar sistema, tipografía o fotos del caso.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-anahuac-mayab-dale-play"
+      ],
+      "campaignIds": [
+        "anahuac-mayab-dale-play"
+      ]
+    },
+    {
+      "id": "learn-unam-somos-ayer-siempre",
+      "principle": "Aprendizaje para UVP: Invitar al público a aportar memoria compartida, con propósito y CTA participativo concreto.",
+      "takeaway": "Invitar al público a aportar memoria compartida, con propósito y CTA participativo concreto.",
+      "avoidanceRisk": "Pedir consentimiento/autorización para uso de archivos personales; no conservar ni publicar imágenes sin permiso.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-unam-somos-ayer-siempre"
+      ],
+      "campaignIds": [
+        "unam-somos-ayer-siempre"
+      ]
+    },
+    {
+      "id": "learn-uam-quedate-2026",
+      "principle": "Aprendizaje para UVP: Mantener un CTA breve de admisión y verificar que convocatoria y fechas correspondan al ciclo vigente.",
+      "takeaway": "Mantener un CTA breve de admisión y verificar que convocatoria y fechas correspondan al ciclo vigente.",
+      "avoidanceRisk": "Los posts cambian por ciclo; no mostrar fechas/convocatoria 2026 como vigentes para ciclos posteriores.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-uam-quedate-2026"
+      ],
+      "campaignIds": [
+        "uam-quedate-2026"
+      ]
+    },
+    {
+      "id": "learn-tec-intervenir-futuro",
+      "principle": "Aprendizaje para UVP: Ordenar causas diversas con un propósito común y un camino claro para elegir cómo participar.",
+      "takeaway": "Ordenar causas diversas con un propósito común y un camino claro para elegir cómo participar.",
+      "avoidanceRisk": "Es una campaña filantrópica, no reclutamiento; no trasladar metas/claims ni asumir impacto social sin evaluación.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-tec-intervenir-futuro"
+      ],
+      "campaignIds": [
+        "tec-intervenir-futuro"
+      ]
+    },
+    {
+      "id": "learn-ibero-puebla-cero-tolerancia",
+      "principle": "Aprendizaje para UVP: Combinar mensajes preventivos con rutas de orientación, denuncia y participación sin exponer a las personas.",
+      "takeaway": "Combinar mensajes preventivos con rutas de orientación, denuncia y participación sin exponer a las personas.",
+      "avoidanceRisk": "No convertir violencia en recurso decorativo; proteger privacidad, lenguaje no revictimizante y canales de ayuda verificados.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-ibero-puebla-cero-tolerancia"
+      ],
+      "campaignIds": [
+        "ibero-puebla-cero-tolerancia"
+      ]
+    },
+    {
+      "id": "learn-ibero-puebla-construimos-esperanza",
+      "principle": "Aprendizaje para UVP: Vincular el tema de campaña a acciones y actividades que la comunidad pueda proponer y realizar.",
+      "takeaway": "Vincular el tema de campaña a acciones y actividades que la comunidad pueda proponer y realizar.",
+      "avoidanceRisk": "No usar el concepto religioso/social fuera de su contexto; evitar afirmar impacto comunitario sin evaluación.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-ibero-puebla-construimos-esperanza"
+      ],
+      "campaignIds": [
+        "ibero-puebla-construimos-esperanza"
+      ]
+    },
+    {
+      "id": "learn-ibero-puebla-reconocernos",
+      "principle": "Aprendizaje para UVP: Traducir un concepto de comunidad en momentos de encuentro identificables y con participación real.",
+      "takeaway": "Traducir un concepto de comunidad en momentos de encuentro identificables y con participación real.",
+      "avoidanceRisk": "No asumir que un evento aislado representa toda la comunidad; pedir autorización de imagen a participantes.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-ibero-puebla-reconocernos"
+      ],
+      "campaignIds": [
+        "ibero-puebla-reconocernos"
+      ]
+    },
+    {
+      "id": "learn-ibero-vivo-mis-derechos",
+      "principle": "Aprendizaje para UVP: Convertir contenido normativo abstracto en señales físicas/digitales claras, accesibles y accionables.",
+      "takeaway": "Convertir contenido normativo abstracto en señales físicas/digitales claras, accesibles y accionables.",
+      "avoidanceRisk": "No reemplazar asistencia humana por QR; asegurar accesibilidad física/digital, privacidad y vigencia de las rutas.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-ibero-vivo-mis-derechos"
+      ],
+      "campaignIds": [
+        "ibero-vivo-mis-derechos"
+      ]
+    },
+    {
+      "id": "learn-tdo-back-to-school-2021",
+      "principle": "Aprendizaje para UVP: Anclar el beneficio aspiracional en atributos concretos de accesibilidad y flexibilidad, no en promesas vagas.",
+      "takeaway": "Anclar el beneficio aspiracional en atributos concretos de accesibilidad y flexibilidad, no en promesas vagas.",
+      "avoidanceRisk": "Las métricas (reach, impresiones, conversaciones, visitas, ROAS) son declaradas por proveedor; no presentar como resultado auditado ni promesa general.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-tdo-back-to-school-2021"
+      ],
+      "campaignIds": [
+        "tdo-back-to-school-2021"
+      ]
+    },
+    {
+      "id": "learn-udlap-power-of-youth",
+      "principle": "Aprendizaje para UVP: Dar voz creadora a estudiantes y conectar el mensaje con actividades prácticas de contribución social.",
+      "takeaway": "Dar voz creadora a estudiantes y conectar el mensaje con actividades prácticas de contribución social.",
+      "avoidanceRisk": "No atribuir métricas de “impacto” ni expansión internacional sin prueba; corroborar vigencia y crédito de estudiantes.",
+      "application": [
+        "graphic",
+        "audiovisual",
+        "web"
+      ],
+      "label": "Interpretación",
+      "sourceIds": [
+        "src-udlap-power-of-youth"
+      ],
+      "campaignIds": [
+        "udlap-power-of-youth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uvp-2027-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototipo interno de referencias para la campaña UVP 2027",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "check": "node tools/check-render.mjs",
+    "build:bocetos": "node tools/build-bocetos.mjs"
+  }
+}
